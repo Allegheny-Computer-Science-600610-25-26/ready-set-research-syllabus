@@ -195,7 +195,7 @@ Computer and Information Science.
 - [ ] The student asked thoughtful questions during presentations and discussions
 - [ ] The student demonstrated professional behavior and respect for others
 
-- **Adviser Meetings**
+#### Adviser Meetings
 
 - [ ] The student met with their first reader on a weekly basis
 - [ ] The student met with their second reader on a regular basis
@@ -209,48 +209,70 @@ computer and information science
 - [ ] The student suggested ways in which to improve and/or gave feedback on the
 course's research process
 
-- **Research Notebook**
+#### Research Notebook
 
-- [ ] The student created a research notebook to record details about their meetings with the first reader and additional research notes
-- [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
-- [ ] After creation, the contents of the research notebook have regular dated entries throughout the Fall 2025 semester
-- [ ] The contents of the research notebook have a clear connection to the research project
-- [ ] The contents of the research notebook give evidence of regular progress on the research project
-- [ ] The research notebook demonstrates critical thinking and reflection on research challenges
-- [ ] The research notebook includes references to relevant literature and resources
-- [ ] The research notebook shows evidence of iterative problem-solving and decision-making
+- [ ] The student created a research notebook to record details about their
+meetings with the first reader and additional research notes
+- [ ] The research notebook contains evidence of numerous dated entries for
+research meetings and additional notes
+- [ ] After creation, the contents of the research notebook have regular dated
+entries throughout the Fall 2025 semester
+- [ ] The contents of the research notebook have a clear connection to the
+research project
+- [ ] The contents of the research notebook give evidence of regular progress on
+the research project
+- [ ] The research notebook demonstrates critical thinking and reflection on
+research challenges
+- [ ] The research notebook includes references to relevant literature and
+resources in the chosen research area
+- [ ] The research notebook shows evidence of iterative problem-solving and
+decision-making in the research process
 
-- **Project Presentation**
+#### Project Presentation
 
 - [ ] The student gave the project presentation on the assigned date
 - [ ] The project presentation featured effective and well-designed slides
-- [ ] The project presentation has an accessible overview of the proposed project
-- [ ] The project presentation contained an effective tool demonstration
+- [ ] The project presentation has an accessible overview of the proposed
+project
 - [ ] The project presentation gave a clear project motivation
 - [ ] The student effectively answered the questions from the audience
-- [ ] The student completed the project presentation within the stated time limit
-- [ ] The student completed the question and answer session within the stated time limit
-- [ ] The presentation demonstrated clear understanding of the research problem and solution
+- [ ] The student completed the project presentation within the stated time
+limit
+- [ ] The student completed the question and answer session within the stated
+time limit
+- [ ] The presentation demonstrated clear understanding of the research problem
+and solution
 - [ ] The presentation included appropriate technical depth for the audience
 - [ ] The presentation showed evidence of thorough preparation and practice
-- [ ] The presentation effectively communicated the broader impact and significance of the work
+- [ ] The presentation effectively communicated the broader impact and
+significance of the work
 
-- **Project Demonstration**
+#### Project Demonstration
 
 - [ ] The student completed the tool demonstration within the stated time limit
-- [ ] The demonstration clearly shows the computational artifact in action with real input/output examples
-- [ ] The student effectively explained the core functionality and purpose of their tool
-- [ ] The demonstration included multiple key features or use cases of the computational artifact
-- [ ] The student handled technical difficulties or unexpected issues professionally during the demo
-- [ ] The demonstrated tool aligns with the research objectives outlined in the thesis
-- [ ] The student showed evidence of testing or validation during the demonstration
+- [ ] The demonstration clearly shows the computational artifact in action with
+realistic input/output examples
+- [ ] The student effectively explained the core functionality and purpose of
+their tool
+- [ ] The demonstration included multiple key features or use cases of the
+computational artifact
+- [ ] The student handled technical difficulties or unexpected issues in a
+professional manner
+- [ ] The demonstrated tool aligns with the research objectives outlined in the
+project presentation
+- [ ] The student showed evidence of testing or validation during the
+demonstration
 - [ ] The demonstration was well-organized and followed a logical sequence
-- [ ] The student effectively responded to technical questions about their tool's implementation
-- [ ] The computational artifact demonstrated represents substantial technical achievement
-- [ ] The demonstration showed the tool's practical applicability and potential impact
-- [ ] The student clearly articulated any limitations or future improvements needed
+- [ ] The computational artifact demonstrated represents substantial technical
+achievement
+- [ ] The demonstration showed the tool's practical applicability and potential
+impact
+- [ ] The student clearly articulated any limitations or future improvements
+needed
+- [ ] The project demonstration showed the overall feasibility of the proposed
+research project
 
-- **General Thesis Requirements**
+#### General Thesis Requirements
 
 - [ ] The abstract provides a concise and compelling summary of the research
 - [ ] The thesis was submitted on time as a PDF in a tagged release on GitHub
@@ -283,20 +305,25 @@ course's research process
 - [ ] There are no typographical or grammatical errors in the thesis
 - [ ] There is no extraneous text in the thesis
 
-- **Introduction Section Requirements**
+#### Introduction Section Requirements
 
 - [ ] The introduction section clearly describes the completed work
 - [ ] The introduction section motivates the completed work from a
   professional perspective focused on science, technology, engineering,
   mathematics, and societal implications
 - [ ] The introduction section outlines the ethical implications of the thesis
+- [ ] The introduction outlines the structure of the senior comprehensive
+project
 
-- **Related Work Section Requirements**
+#### Related Work Section Requirements
 
 - [ ] The related work section references and describes relevant literature
-- [ ] The related work section explains how relevant literature connects to the thesis
-- [ ] The related work section does not provide a "laundry list" of the related literature
-- [ ] The related work section situates the completed project in the broader scope
+- [ ] The related work section explains how relevant literature connects to the
+thesis
+- [ ] The related work section does not provide a "laundry list" of the related
+literature
+- [ ] The related work section situates the completed project in the broader
+scope
 
 - **Method Section Requirements**
 
@@ -328,42 +355,51 @@ course's research process
 
 - **Discussion and Future Work Section Requirements**
 
-- [ ] The discussion and future work section discusses the impact of the completed research project
-- [ ] The discussion and future work section critically reflects on the completed research project
-- [ ] The conclusion outlines, with sufficient depth and detail, avenues for further and/or future work
+- [ ] The discussion and future work section discusses the impact of the
+completed research project
+- [ ] The discussion and future work section critically reflects on the
+completed research project
+- [ ] The conclusion outlines, with sufficient depth and detail, avenues for
+further and/or future work
 
 - **Computational Artifact**
 
-- [ ] The artifact's source code exists in a publicly available GitHub repository
-- [ ] The artifact's GitHub repository contains documentation on how to install and use it
-- [ ] It is possible for a computer scientist who is not the creator of the GitHub repository to install and use the computational artifact
-- [ ] The artifact's GitHub repository contains sufficient evidence of best practices for software development (e.g., test suites, linters, and the setup of continuous integration in GitHub Actions)
-- [ ] The GitHub repository features deliverables that have a clear connection to the research project
-- [ ] The GitHub repository contains evidence of regular commits through the spring semester
-- [ ] The computational artifact demonstrates significant technical complexity appropriate for senior-level work
+- [ ] The artifact's source code exists in a publicly available GitHub
+repository
+- [ ] The artifact's GitHub repository contains documentation on how to install
+and use it
+- [ ] It is possible for a computer scientist who is not the creator of the
+GitHub repository to install and use the computational artifact
+- [ ] The artifact's GitHub repository contains sufficient evidence of best
+practices for software development (e.g., test suites, linters, and the setup of
+continuous integration in GitHub Actions)
+- [ ] The GitHub repository features deliverables that have a clear connection
+to the research project
+- [ ] The GitHub repository contains evidence of regular commits through the
+spring semester
+- [ ] The computational artifact demonstrates significant technical complexity
+appropriate for senior-level work
 - [ ] The artifact includes comprehensive error handling and input validation
 - [ ] The repository contains clear examples and usage demonstrations
-- [ ] The artifact's code is well-structured, readable, and follows appropriate design patterns
-- [ ] The computational artifact successfully addresses the research problem as outlined in the proposal
+- [ ] The artifact's code is well-structured, readable, and follows appropriate
+design patterns
+- [ ] The computational artifact successfully addresses the research problem as
+outlined in the proposal
 
 ### Institutional Review Board (IRB) Proposals
 
 Should a project require Institutional Review Board (IRB) approval for use of
 human subjects in the research project, the proposing student is responsible for
 writing and having an approved IRB proposal before conducting any of the
-experimentation associated with their undergraduate research.
-Students must submit their IRB proposal to their First Reader who will review it
-and provide feedback on it before submitting it to the IRB.
-In accordance with Allegheny College policies, students may not submit their IRB
-proposal directly to the IRB and may not start working on any of their experiments
-before receiving IRB approval.
+experimentation associated with their undergraduate research. Students must
+submit their IRB proposal to their First Reader who will review it and provide
+feedback on it before submitting it to the IRB. In accordance with Allegheny
+College policies, students may not submit their IRB proposal directly to the IRB
+and may not start working on any of their experiments before receiving IRB
+approval.
 
 ### Additional Details
 
-- Students must upload a PDF of their senior thesis presentation slides to the
-  `#general` channel in the `Ready, Set, Research!` Discord server no later than
-  one week before the end of class on the day on which they are scheduled to
-  give their presentation.
 - A project presentation includes the following components with the stated time limits
     - Project presentation presentation:  5 minutes
     - Question and answer session: 2 minutes
@@ -374,7 +410,6 @@ before receiving IRB approval.
 - Since project presentations will take place in both Alden 101 and Alden 109,
   approximately half of the students should attend defenses in one room and half
   should do the same in the other room.
-- Faculty members may need to move from Alden 101 to Alden 109.
 - Students must submit the first two chapters of their senior thesis document.
   The thesis chapters are only required to adhere to those requirements that
   might be reasonably completed during `CMPSC 600`. For instance, students are
@@ -391,6 +426,7 @@ There are no required textbooks for this course.
 However, the faculty _highly recommend_ investing in the following texts for
 both academic and professional development:
 
+
 |Title |Author |ISBN/ASIN |
 |:-----|:------|:----|
 |_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
@@ -398,16 +434,15 @@ both academic and professional development:
 |_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
 |_Published_|Thomas Deetjen|B085MQN3Q8 |
 
+
 ### Course Platforms
 
-* [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
-* [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
+* [ReadyResearchers Organization on GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26)
 
-This course relies heavily on the above GitHub organization and Discord server.
-Your work will be assigned and evaluated on and crucial communication
-distributed through these two platforms.
-You are expected to register for and remain active on these platforms throughout
-the academic year.
+This course relies heavily on the above GitHub organization. Your work will be
+assigned and evaluated on and crucial communication distributed through these
+two platforms. You are expected to register for and remain active on these
+platforms throughout the academic year.
 
 ### Course Repositories
 
@@ -492,6 +527,53 @@ act according to discipline-specific ethics.
 The faculty encourage you to take time to review the Association for Computing
 Machinery (ACM) [Code of
 Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
+
+### Use of Artificial Intelligence Tools
+
+The course instructors recognize that use of artificial intelligence (AI) tools
+such as Github Copilot, GPT, and Claude has emerged as a professional skill set
+in the knowledge and practices our coursework covers. Department faculty
+maintain a permissive attitude toward these tools by recognizing that you can
+and will use them. We do so considering the following position:
+
+> As a skill, using and correctly applying the results derived from AI tools is
+> both context-based and discretion-worthy: these tools do not always provide
+> correct or workable answers. Industry veterans and expert users run into many
+> situations in which the responses these algorithms provide are plainly
+> incorrect or unfit. In the context of department coursework, accepting an
+> AI-generated answer wholesale or as a small part of an assignment may lead to
+> less-than-satisfactory results in the context of both learning and deliverable
+> quality.
+
+> As a learner, your time at Allegheny is meant to impart the knowledge that
+> enables you to judge the fitness of a given approach, regardless of its
+> origin. In the same way that CIS students employ compilers, integrated
+> development environments, and refactoring tools, the use of an AI tool is not
+> a substitute for developing the fundamental skills that develop this
+> awareness. Importantly, research demonstrates that relying on generated
+> responses reduces a learner’s ability to durably learn these lessons and
+> skills, suggesting that you should cautiously embrace the use of AI when you
+> complete CIS coursework<sup>†</sup>.
+
+Be prepared to support their use in ways including but not limited to:
+
+* citing instances where code has been generated and clearly defining the tools
+that generated them
+* providing descriptive commentary (including prompts) around generated code
+either in in-line comments or assignment documentation
+* considering improvements to the generated code, documenting specifics about
+your modifications and reasoning behind them
+* revising the generated code or documentation so as to ensure that it is more
+suitable for the purposes of your assignment
+
+Faculty do not intend these requirements as a “gotcha”; we assume the best of
+your effort. These guidelines follow industry best practices and prepare you for
+integrating current and future generations of these AI technologies into your
+set of computational skills.
+
+<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. 2024. Plagiarism in the Age of Generative AI: 
+Cheating Method Change and Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM Conference on Learning @ Scale (L@S '24)_. 
+Association for Computing Machinery, New York, NY, USA, 75–85. https://doi.org/10.1145/3657604.36620
 
 ### Seeking Assistance
 
