@@ -26,7 +26,7 @@ engineering, as further described in detail in the Learning Objectives section.
 - [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
 - [Janyl Jumadinova](https://janyljumadinova.com/)
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
-- [Douglas Luman](https://www.douglasjluman.com/)
+- [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
 The instructor with the `**` symbol after their name is the course coordinator
 who is responsible for orchestrating all aspects of the `CMPSC 600` course. If
