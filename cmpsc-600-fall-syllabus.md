@@ -325,7 +325,7 @@ literature
 - [ ] The related work section situates the completed project in the broader
 scope
 
-- **Method Section Requirements**
+#### Method Section Requirements
 
 - [ ] The method section explains the process utilized in the completed study
 - [ ] The method section addresses as many of the following which are
@@ -344,7 +344,7 @@ scope
   repository that contains the computational artifact(s) should furnish
   complete details about the input, output, behavior, and use of the project)
 
-- **Experimental Results Section Requirements**
+#### Experimental Results Section Requirements
 
 - [ ] The experimental results section includes a description of experiments
   such that a reader should be able to reproduce them
@@ -353,7 +353,7 @@ scope
   some other relevant presentation of the results from the experimental study
 - [ ] The experimental results section details threats to validity
 
-- **Discussion and Future Work Section Requirements**
+#### Discussion and Future Work Section Requirements
 
 - [ ] The discussion and future work section discusses the impact of the
 completed research project
@@ -362,7 +362,7 @@ completed research project
 - [ ] The conclusion outlines, with sufficient depth and detail, avenues for
 further and/or future work
 
-- **Computational Artifact**
+#### Computational Artifact
 
 - [ ] The artifact's source code exists in a publicly available GitHub
 repository
