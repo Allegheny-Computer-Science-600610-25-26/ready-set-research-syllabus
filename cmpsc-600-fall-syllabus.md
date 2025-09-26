@@ -18,7 +18,8 @@ find joy in the process.
 Independent research in computer science, data science, informatics, or software
 engineering, as further described in detail in the Learning Objectives section.
 
-* Prerequisite: `CMPSC 580` or suitable equivalent
+* Prerequisite: `CMPSC 580` or suitable equivalent for certain `600`-level
+courses
 * Distribution Requirements: `None`
 
 ## Course Instructors
