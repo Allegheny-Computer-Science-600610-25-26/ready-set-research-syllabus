@@ -468,12 +468,11 @@ both academic and professional development:
 
 ### Course Repositories
 
-* [Computer and Information Science 600/610 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26)
-
-This course relies heavily on the above GitHub organization. Your work will be
-assigned and evaluated on and crucial communication distributed through the
-GitHub platform. You are responsible for accepting and maintaining GitHub
+This course relies heavily on the [Computer and Information Science 600/610
+Organization on
+GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26). Your work
+will be assigned and evaluated on and crucial communication distributed through
+the GitHub platform. You are responsible for accepting and maintaining GitHub
 repositories for each of the assigned course projects. Repositories include
 completion- and submission-specific instructions via `README` files. Many of
 these operations feature using GitHub's tagging mechanism to release PDFs of
