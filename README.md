@@ -5,6 +5,6 @@ course in research methods in Computer Science. Specifically, it contains
 the following files:
 
 - [CMPSC 600 Fall Semester Syllabus](/cmpsc-600-fall-syllabus.md)
-- [CMPSC 610 Spring Semester Syllabus](/cmpsc-610-spring-syllabus.md)
+- [DRAFT of CMPSC 610 Spring Semester Syllabus](/cmpsc-610-spring-syllabus.md)
 - [Issue Tracker for Feedback on a Syllabus](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/issues)
 - [Pull Requests for Improvement to the Syllabus](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/pulls)
