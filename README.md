@@ -1,7 +1,8 @@
-# Ready, Set, Research! - Syllabus Repository
+# Ready, Set, Research! - Syllabus Repository for the Senior Comprehensive Project (600 and 610)
 
 This repository contains the syllabus for both a Fall and a Spring semester
-course in research methods in Computer Science.
+course in research methods in Computer Science. Specifically, it contains
+the following files:
 
 - [CMPSC 600 Fall Semester Syllabus](/cmpsc-600-fall-syllabus.md)
 - [CMPSC 610 Spring Semester Syllabus](/cmpsc-610-spring-syllabus.md)
