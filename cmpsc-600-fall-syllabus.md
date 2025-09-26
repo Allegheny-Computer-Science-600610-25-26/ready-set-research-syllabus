@@ -492,13 +492,12 @@ sessions.
 
 ### Email Policy
 
-Despite the fact that the majority of our communication relies on the [Ready,
-Set, Research!
-Discord Server](https://discord.gg/KBMAHZRH9x) and other platforms such as the
-[ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers),
-the faculty may occasionally use email to communicate significant information.
-As with other the other platforms used by this course, it is your responsibility
-to be accountable for email communication.
+Despite the fact that the majority of our communication relies on the
+[ReadyResearchers Organization on
+GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
+will also use email to communicate significant information. As with other the
+other platforms used by this course, it is your responsibility to be accountable
+for email communication.
 
 ### Syllabus Revision
 
