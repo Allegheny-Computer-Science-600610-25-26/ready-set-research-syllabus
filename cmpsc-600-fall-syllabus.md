@@ -187,19 +187,6 @@ Computer and Information Science.
 
 ### Deliverable Descriptions
 
-- **Research Notebook**
-
-- [ ] The student created a research notebook to record details about their meetings
-with the first reader and additional research notes
-- [ ] The research notebook contains evidence of numerous dated entries for
-research meetings and additional notes
-- [ ] The contents of the research notebook have regular dated entries
-throughout the Fall 2025 semester
-- [ ] The contents of the research notebook have a clear connection to the
-research project
-- [ ] The contents of the research notebook give evidence of regular progress
-on the research project
-
 - **Class Participation**
 
 - [ ] The student regularly attended the weekly class sessions
@@ -207,18 +194,32 @@ on the research project
 discussions
 - [ ] The student actively participated in the online discussions in Discord
 
-- **Process Commitment**
+- **Adviser Meetings**
 
-- [ ] The student frequently completed activities on time according to the
-course schedule
-- [ ] The student asked and/or answered questions from their peers
-- [ ] The student actively participated in the peer review process
-- [ ] The student demonstrated growth in their knowledge of their research
-topic
+- [ ] The student met with their first reader on a weekly basis
+- [ ] The student met with their second reader on a regular basis
+- [ ] The student came to research meetings with a planned agenda
+- [ ] The student left research meetings with clear action items
+- [ ] The student frequently completed activities on time according agreed
+schedules
+- [ ] The student demonstrated growth in their knowledge of their research topic
 - [ ] The student demonstrated growth in their ability to conduct research in
-computer science
-- [ ] The student suggested ways in which to improve and/or gave feedback on
-the course's research process
+computer and information science
+- [ ] The student suggested ways in which to improve and/or gave feedback on the
+course's research process
+
+- **Research Notebook**
+
+- [ ] The student created a research notebook to record details about their
+meetings with the first reader and additional research notes
+- [ ] The research notebook contains evidence of numerous dated entries for
+research meetings and additional notes
+- [ ] After creation, the contents of the research notebook have regular dated
+entries throughout the Fall 2025 semester
+- [ ] The contents of the research notebook have a clear connection to the
+research project
+- [ ] The contents of the research notebook give evidence of regular progress on
+the research project
 
 - **Project Presentation**
 
