@@ -629,10 +629,8 @@ College resources that will enable your safety and success.
 In many situations, the following list of resources may prove useful:
 
 * [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-* [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
-* [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-* [Student Life](https://sites.allegheny.edu/studentlife/)
-* [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
+* [Allegheny College Health and Wellbeing](https://allegheny.edu/student-life/health-and-wellbeing/)
+* [Winslow Health Center](https://allegheny.edu/student-life/health-and-wellbeing/health-center/)
 
 ### Special Needs
 
