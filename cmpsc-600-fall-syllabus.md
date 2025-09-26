@@ -192,14 +192,13 @@ coordinator.
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
 - **Project Presentation**
-  - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
-  - [ ] The student gave the project pitch on the assigned date
-  - [ ] The project pitch featured effective and well-designed slides
-  - [ ] The project pitch has an accessible overview of the proposed project
-  - [ ] The project pitch contained an effective tool demonstration
-  - [ ] The project pitch gave a clear project motivation
+  - [ ] The student gave the project presentation on the assigned date
+  - [ ] The project presentation featured effective and well-designed slides
+  - [ ] The project presentation has an accessible overview of the proposed project
+  - [ ] The project presentation contained an effective tool demonstration
+  - [ ] The project presentation gave a clear project motivation
   - [ ] The student effectively answered the questions from the audience
-  - [ ] The student completed the project pitch within the stated time limit
+  - [ ] The student completed the project presentation within the stated time limit
   - [ ] The student completed the question and answer session within the stated time limit
 
 - **Project Demonstration**
@@ -314,14 +313,14 @@ before receiving IRB approval.
   `#general` channel in the `Ready, Set, Research!` Discord server no later than
   one week before the end of class on the day on which they are scheduled to
   give their presentation.
-- A project pitch includes the following components with the stated time limits
-    - Project pitch presentation:  5 minutes
+- A project presentation includes the following components with the stated time limits
+    - Project presentation presentation:  5 minutes
     - Question and answer session: 2 minutes
     - Demonstration of computation artifact: 1 minute
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
-  of the project pitches.
-- Since project pitches will take place in both Alden 101 and Alden 109,
+  of project presentations.
+- Since project presentations will take place in both Alden 101 and Alden 109,
   approximately half of the students should attend defenses in one room and half
   should do the same in the other room.
 - Faculty members may need to move from Alden 101 to Alden 109.
