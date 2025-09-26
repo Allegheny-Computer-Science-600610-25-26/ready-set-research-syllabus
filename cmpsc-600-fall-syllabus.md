@@ -635,9 +635,8 @@ In many situations, the following list of resources may prove useful:
 ### Special Needs
 
 Students with disabilities who need accommodations in this course are encouraged
-to contact Disability Services at `+1 814-332-2898`. Disability Services is part
-of the Learning Commons, located in Pelletier Library. Should you need
-accommodations, contact this office as soon as possible to ensure that approved
-accommodations are communicated and implemented as quickly as possible. This
-serves everyone involved in providing the best environment for learning and
-support.
+to contact Disability Services that is part of the Maytum Center for Student
+Success, located in Pelletier Library. Should you need accommodations, contact
+this office as soon as possible to ensure that approved accommodations are
+communicated and implemented as quickly as possible. This serves everyone
+involved in providing the best environment for learning and support.
