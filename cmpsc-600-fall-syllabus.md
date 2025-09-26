@@ -618,13 +618,11 @@ stop**.
 Do not wait until the end of the semester.
 
 Part of our role as course instructors is to make sure that students receive the
-assistance they need.
-Do not hesitate to let us know if there is anything we can do with respect to
-your ability to handle your work.
-This is especially true of our current circumstances of the on-going global
-pandemic.
-Again, let us remind and encourage you -- _**it is part of our job**_ to help
-you access Allegheny College resources that will enable your safety and success.
+assistance they need. Do not hesitate to let us know if there is anything we can
+do with respect to your ability to handle your work. This is especially true of
+our current circumstances of the on-going global pandemic. Again, let us remind
+and encourage you -- _**it is part of our job**_ to help you access Allegheny
+College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
 
@@ -637,11 +635,9 @@ In many situations, the following list of resources may prove useful:
 ### Special Needs
 
 Students with disabilities who need accommodations in this course are encouraged
-to contact Disability Services at `+1 814-332-2898`.
-Disability Services is part of the Learning Commons, located in Pelletier
-Library.
-Should you need accommodations, contact this office as soon as possible to
-ensure that approved accommodations are communicated and implemented as quickly
-as possible.
-This serves everyone involved in providing the best environment for learning and
+to contact Disability Services at `+1 814-332-2898`. Disability Services is part
+of the Learning Commons, located in Pelletier Library. Should you need
+accommodations, contact this office as soon as possible to ensure that approved
+accommodations are communicated and implemented as quickly as possible. This
+serves everyone involved in providing the best environment for learning and
 support.
