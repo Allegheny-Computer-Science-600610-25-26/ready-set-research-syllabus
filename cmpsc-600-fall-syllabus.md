@@ -476,7 +476,7 @@ the GitHub platform. You are responsible for accepting and maintaining GitHub
 repositories for each of the assigned course projects. Repositories include
 completion- and submission-specific instructions via `README` files. Many of
 these operations feature using GitHub's tagging mechanism to release PDFs of
-your proposal with versions that adhere to the course's semantic versioning
+your content with versions that adhere to the course's semantic versioning
 standard. Students are invited to create and share their own GitHub repositories
 for the source code, documentation, and data sets connected with their senior
 comprehensive project.
@@ -497,8 +497,8 @@ sessions.
 
 ### Email Policy
 
-Despite the fact that the majority of our communication relies on the
-[Allegheny College Computer Science 600/610 Organization on
+Despite the fact that the majority of our communication relies on the [Computer
+and Information Science 600/610 Organization on
 GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
 will also use email to communicate significant information. As with other the
 GitHub platform used by this course, it is your responsibility to be accountable
