@@ -114,6 +114,8 @@ critical engagement of impact of technology on various communities.
 
 ### Software Engineering 600
 
+#### Course Description
+
 Independent research in software engineering culminating in the development of a
 prototype or early draft of a computational artifact. Must be taken on a
 letter-grade basis. Students are invited to use their own departmentally
