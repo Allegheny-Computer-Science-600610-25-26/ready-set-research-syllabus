@@ -465,20 +465,19 @@ both academic and professional development:
 
 ### Course Repositories
 
-* [ReadyResearchers Organization on GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26)
+* [Computer and Information Science 600/610 Organization on
+GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26)
 
 This course relies heavily on the above GitHub organization. Your work will be
 assigned and evaluated on and crucial communication distributed through these
-two platforms. You are expected to register for and remain active on these
-platforms throughout the academic year.
-
-You are responsible for accepting and maintaining GitHub repositories for each
-of the assigned course projects.
-Repositories include completion- and submission-specific instructions via
-`README` files.
-Many of these operations feature using GitHub's tagging mechanism to release
-PDFs of your proposal with versions that adhere to the course's semantic
-versioning standard.
+the GitHub platform. You are responsible for accepting and maintaining GitHub
+repositories for each of the assigned course projects. Repositories include
+completion- and submission-specific instructions via `README` files. Many of
+these operations feature using GitHub's tagging mechanism to release PDFs of
+your proposal with versions that adhere to the course's semantic versioning
+standard. Students are invited to create and share their own GitHub repositories
+for the source code, documentation, and data sets connected with their senior
+comprehensive project.
 
 **Course instructors will only grade and provide feedback on projects that are
 stored in and properly released through GitHub.**
