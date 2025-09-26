@@ -294,10 +294,10 @@ research project
   subsections, and individual paragraphs
 - [ ] The thesis includes appropriate visual aids, which fall under the broad
   categories of:
-* `image`
-* `figure`
-* `table`
-* `graph`
+    * `image`
+    * `figure`
+    * `table`
+    * `graph`
 - [ ] The thesis contains a sufficient amount of content with a focus on
   scientific, technical, engineering, and/or mathematical content
 - [ ] The thesis highlights and explains the societal impacts and ethical
@@ -330,12 +330,19 @@ scope
 - [ ] The method section explains the process utilized in the completed study
 - [ ] The method section addresses as many of the following which are
   applicable (minimum `1`):
-* `description of algorithms`
-* `programming languages`
-* `libraries`
-* `platforms`
-* `software tools`
-* `hardware`
+    * `description of algorithms`
+    * `programming languages`
+    * `libraries`
+    * `platforms`
+    * `frameworks`
+    * `software`
+    * `hardware`
+    * `data`
+    - `theories`
+- [ ] The method section explains the design of the experiments
+that will evaluate the computational artifact
+- [ ] The method section explains how to calculate and/or collect the
+evaluation metrics
 - [ ] The method section references the GitHub repository that contains the
   implementation of the project's computational artifact(s)
 - [ ] The method section gives examples of the input and output of the
@@ -351,7 +358,7 @@ scope
 - [ ] The evaluation subsection describes how the work is validated
 - [ ] The evaluation subsection contains at least one graph, table of data, or
   some other relevant presentation of the results from the experimental study
-- [ ] The experimental results section details threats to validity
+- [ ] The experimental results section details the threats to validity
 
 #### Discussion and Future Work Section Requirements
 
@@ -368,7 +375,7 @@ further and/or future work
 repository
 - [ ] The artifact's GitHub repository contains documentation on how to install
 and use it
-- [ ] It is possible for a computer scientist who is not the creator of the
+- [ ] It is possible for a `600`-level researcher who is not the creator of the
 GitHub repository to install and use the computational artifact
 - [ ] The artifact's GitHub repository contains sufficient evidence of best
 practices for software development (e.g., test suites, linters, and the setup of
@@ -378,13 +385,13 @@ to the research project
 - [ ] The GitHub repository contains evidence of regular commits through the
 spring semester
 - [ ] The computational artifact demonstrates significant technical complexity
-appropriate for senior-level work
+appropriate for `600`-level work
 - [ ] The artifact includes comprehensive error handling and input validation
 - [ ] The repository contains clear examples and usage demonstrations
 - [ ] The artifact's code is well-structured, readable, and follows appropriate
 design patterns
 - [ ] The computational artifact successfully addresses the research problem as
-outlined in the proposal
+outlined in the project's presentations and chapters
 
 ### Institutional Review Board (IRB) Proposals
 
