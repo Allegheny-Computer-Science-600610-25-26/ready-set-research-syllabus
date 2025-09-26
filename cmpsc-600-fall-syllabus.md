@@ -201,8 +201,7 @@ Computer and Information Science.
 - [ ] The student met with their second reader on a regular basis
 - [ ] The student came to research meetings with a planned agenda
 - [ ] The student left research meetings with clear action items
-- [ ] The student frequently completed activities on time according agreed
-schedules
+- [ ] The student frequently completed activities according to agreed schedules
 - [ ] The student demonstrated growth in their knowledge of their research topic
 - [ ] The student demonstrated growth in their ability to conduct research in
 computer and information science
@@ -231,6 +230,7 @@ decision-making in the research process
 #### Project Presentation
 
 - [ ] The student gave the project presentation on the assigned date
+- [ ] The student completed the presentation within the stated time limit
 - [ ] The project presentation featured effective and well-designed slides
 - [ ] The project presentation has an accessible overview of the proposed
 project
