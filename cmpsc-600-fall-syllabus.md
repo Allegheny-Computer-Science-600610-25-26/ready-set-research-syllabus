@@ -418,6 +418,31 @@ approval.
   questions about the assessment requirements for `CMPSC 600` are encouraged to
   contact their first reader and the `CMPSC 600` course coordinator.
 
+### Course Schedule
+
+- **Week One**: Informal class session due to start of semester during a partial
+week
+- **Week Two**: First formal class session and overview of course goals
+- **Week Three**: Review of course goals and meeting with both readers
+- **Week Four**: Review syllabus, work on presentation slide deck and prototype
+- **Week Five**: Refine presentation slide deck and computational prototype
+- **Week Six**: Finalize presentation slide deck and prototype for demonstration
+- **Week Seven**: No class due to Fall Break, gain access to thesis chapters
+repository
+- **Week Eight**: One-third of class gives project presentation and
+demonstration
+- **Week Nine**: One-third of class gives project presentation and demonstration
+- **Week Ten**: One-third of class gives project presentation and demonstration
+- **Week Eleven**: Write and revise Chapter One of Senior Comprehensive Project
+- **Week Twelve**: Write and revise Chapter One of Senior Comprehensive Project
+- **Week Thirteen**: Write and revise Chapter Two of Senior Comprehensive
+Project
+- **Week Fourteen**: No class due to Thanksgiving Break
+- **Week Fifteen**: Write and revise Chapter Two of Senior Comprehensive Project
+- **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
+- **December 11, 2025 by 11:59 PM**: Submit final version of Chapter One and
+Chapter Two
+
 ## Required Materials
 
 ### Course Textbooks
@@ -435,7 +460,7 @@ both academic and professional development:
 |_Published_|Thomas Deetjen|B085MQN3Q8 |
 
 
-### Course Platforms
+### Course Repositories
 
 * [ReadyResearchers Organization on GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26)
 
@@ -443,8 +468,6 @@ This course relies heavily on the above GitHub organization. Your work will be
 assigned and evaluated on and crucial communication distributed through these
 two platforms. You are expected to register for and remain active on these
 platforms throughout the academic year.
-
-### Course Repositories
 
 You are responsible for accepting and maintaining GitHub repositories for each
 of the assigned course projects.
