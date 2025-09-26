@@ -169,7 +169,11 @@ Computer and Information Science course will be evaluated according to each of
 the following baseline requirements. Please note that these requirements
 articulate baseline requirements for the `600`-level course in Computer and
 Information Science and are provided as a list of minimum requirements that a
-specific research deliverables must meet to be assessed as complete.
+specific research deliverables must meet to be assessed as complete. Before the
+submission of a final grade, a student's assessment scores for these categories
+will be initially assigned by their first reader, reviewed by their second
+reader, and ultimately approved by all faculty members who are instructors for a
+`600`-level course in Computer and Information Science at Allegheny College.
 
 Students who are enrolled in `DOUBL 600` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
