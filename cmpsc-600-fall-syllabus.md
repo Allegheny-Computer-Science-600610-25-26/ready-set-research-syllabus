@@ -159,7 +159,7 @@ percentages during the academic semester.
 |Computational Artifact          |Primary                                 |15%           |
 |Project Presentation            |Primary                                 |15%           |
 |Project Demonstration           |Primary                                 |15%           |
-|Thesis Chapters                 |Primary                                 |30%           |
+|Two Thesis Chapters                 |Primary                                 |30%           |
 
 
 To pass a `600`-level course in Computer and Information Science, submission of
