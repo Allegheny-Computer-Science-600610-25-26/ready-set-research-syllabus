@@ -15,13 +15,10 @@ find joy in the process.
 
 ## Course Description
 
-Independent research in computer science.
-Students are invited to use their own departmentally approved laptop in this
-course; a limited number of laptops are available for use during class and lab
-sessions.
-Must be taken on the letter-grade basis.
+Independent research in computer science, data science, informatics, or software
+engineering, as further described in detail in the Learning Objectives section.
 
-* Prerequisite: `CMPSC 580`
+* Prerequisite: `CMPSC 580` or suitable equivalent
 * Distribution Requirements: `None`
 
 ## Course Instructors
@@ -32,39 +29,129 @@ Must be taken on the letter-grade basis.
 - [Douglas Luman](https://www.douglasjluman.com/)
 
 The instructor with the `**` symbol after their name is the course coordinator
-who is responsible for orchestrating all aspects of the `CMPSC 600` course.
-If you have any high-level questions about this course, please contact both the
-course coordinator and your first reader(s).
-Finally, if you are enrolled in `DOUBL 600` you may have a first reader who is
-not in the above list of course instructors.
+who is responsible for orchestrating all aspects of the `CMPSC 600` course. If
+you have any high-level questions about this course, please contact both the
+course coordinator and your first reader(s). Importantly, if you are enrolled in
+`DOUBL 600` you may have a first reader who is not in the above list of course
+instructors.
+
+## Course Details and Learning Outcomes
+
+### Computer Science 600
+
+#### Course Description
+
+Independent research in computer science culminating in the development of
+prototype or early draft of a computational artifact. Must be taken on a
+letter-grade basis. Students are invited to use their own departmentally
+approved laptop in this course; a limited number of laptops are available for
+use during class and lab sessions.
+
+#### Learning Objectives
+
+- Develop a viable and appropriate proposal for an independent and open-source
+research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+of an incremental research notebook and two chapters of a formal thesis
+document.
+- Present and communicate complex ideas in a variety of media through both
+informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of computational artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical
+and social impact of the proposed artifact.
+- Produce an original project that includes integration of theory and practice
+or software and hardware.
+
+### Data Science 600
+
+#### Course Description
+
+Independent research in data science culminating in the development of a
+prototype or early draft of a computational artifact. Must be taken  on a
+letter-grade basis. Students are invited to use their own departmentally
+approved laptop in this course; a limited number of laptops are available for
+use during class and lab sessions.
+
+#### Learning Outcomes
+
+- Develop a viable and appropriate proposal for an independent and open-source
+research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+of an incremental research notebook and two chapters of a formal thesis
+document.
+- Present and communicate complex ideas in a variety of media through both
+informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of a data-oriented artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical
+and social impact of the proposed artifact.
+- Produce an original project that uses a large, complex data set to create a
+web dashboard or extend an existing data science framework via analysis.
+
+### Informatics 600
+
+#### Course Description
+
+Independent research in informatics culminating in the development of a
+prototype or early draft of a computational artifact. Must be taken on a
+letter-grade basis. Students are invited to use their own departmentally
+approved laptop in this course; a limited number of laptops are available for
+use during class and lab sessions.
+
+#### Learning Outcomes
+
+- Develop a viable and appropriate proposal for an independent and open-source
+research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+of an incremental research notebook and two chapters of a formal thesis
+document.
+- Present and communicate complex ideas in a variety of media through both
+informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of an information-informed artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical
+and social impact of the proposed artifact.
+- Produce an original project that integrates multiple disciplines and provides
+critical engagement of impact of technology on various communities.
+
+### Software Engineering 600
+
+Independent research in software engineering culminating in the development of a
+prototype or early draft of a computational artifact. Must be taken on a
+letter-grade basis. Students are invited to use their own departmentally
+approved laptop in this course; a limited number of laptops are available for
+use during class and lab sessions.
+
+#### Learning Outcomes
+
+- Develop a viable and appropriate proposal for an independent and open-source
+research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+of an incremental research notebook and two chapters of a formal thesis
+document.
+- Present and communicate complex ideas in a variety of media through both
+informal discussions, peer reviews, and formal presentations.
+- Produce and document a working prototype of an engineered software artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical,
+ethical, and social impact of the produced artifact.
+- Produce an original software project that is working, well-tested, and
+deployed into production use.
 
 ## Assessment Strategy
-
-### Learning Outcomes
-
-By the end of this course, you will develop skills to:
-
-* Develop and complete an independent research process
-* Present and communicate complex ideas in a variety of media through both
-  writing and oral presentations
-* Implement and experimentally evaluate a computational artifact
-* Describe and analyze a research process, its methods, and outcomes in the form
-  of a formal thesis document
-* Effectively accomplish and offer peer and meta-critical review
 
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
 "secondary" requirements, as explained in the following table.
 
+
 |**Deliverable**                 |**Primary/secondary requirement**       |
 |:-------------------------------|:---------------------------------------|
-|Research Notebook               |Secondary                               |
+|Research Journal                |Secondary                               |
 |Class Participation             |Secondary                               |
 |Process Commitment              |Secondary                               |
 |Proposal Pitch                  |Primary                                 |
 |Thesis Chapters                 |Primary                                 |
 |Computational Artifact          |Primary                                 |
+
 
 To pass `CMPSC 600`, submission of and participation in all of the primary
 requirements is mandatory.
