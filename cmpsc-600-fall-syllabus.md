@@ -401,9 +401,9 @@ approval.
 ### Additional Details
 
 - A project presentation includes the following components with the stated time limits
-    - Project presentation presentation:  5 minutes
+    - Project presentation presentation:  10 minutes
+    - Demonstration of computation artifact: 3 minutes
     - Question and answer session: 2 minutes
-    - Demonstration of computation artifact: 1 minute
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
   of project presentations.
