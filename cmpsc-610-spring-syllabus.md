@@ -1,4 +1,4 @@
-# CMPSC 610: Spring Semester of Two-Semester Senior Thesis Research
+# DRAFT of CMPSC 610: Spring Semester of Two-Semester Senior Thesis Research
 
 ## Outline
 
