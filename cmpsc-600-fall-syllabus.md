@@ -68,7 +68,7 @@ or software and hardware.
 #### Course Description
 
 Independent research in data science culminating in the development of a
-prototype or early draft of a computational artifact. Must be taken  on a
+prototype or early draft of a computational artifact. Must be taken on a
 letter-grade basis. Students are invited to use their own departmentally
 approved laptop in this course; a limited number of laptops are available for
 use during class and lab sessions.
@@ -153,9 +153,9 @@ percentages during the academic semester.
 
 |**Deliverable**        |**Categorization** |**Percentage** |
 |:----------------------|:------------------|:--------------|
-|Class Participation    |Secondary          |5%             |
-|Adviser Meetings       |Secondary          |5%             |
-|Research Journal       |Secondary          |5%             |
+|Class Participation    |Secondary          |7.5%             |
+|Adviser Meetings       |Secondary          |7.5%             |
+|Research Notebook       |Secondary          |10%             |
 |Computational Artifact |Primary            |15%            |
 |Project Presentation   |Primary            |15%            |
 |Project Demonstration  |Primary            |15%            |
@@ -201,7 +201,7 @@ Computer and Information Science.
 - [ ] The student met with their second reader on a regular basis
 - [ ] The student came to research meetings with a planned agenda
 - [ ] The student left research meetings with clear action items
-- [ ] The student frequently completed activities according to agreed schedules
+- [ ] The student frequently completed activities according to an agreed schedule
 - [ ] The student demonstrated growth in their knowledge of their research topic
 - [ ] The student demonstrated growth in their ability to conduct research in
 computer and information science
@@ -230,7 +230,6 @@ decision-making in the research process
 #### Project Presentation
 
 - [ ] The student gave the project presentation on the assigned date
-- [ ] The student completed the presentation within the stated time limit
 - [ ] The project presentation featured effective and well-designed slides
 - [ ] The project presentation has an accessible overview of the proposed
 project
@@ -328,8 +327,8 @@ scope
 #### Method Section Requirements
 
 - [ ] The method section explains the process utilized in the completed study
-- [ ] The method section addresses as many of the following which are
-  applicable (minimum `1`):
+- [ ] The method section addresses as many of the following which are applicable
+(minimum `1`):
     * `description of algorithms`
     * `programming languages`
     * `libraries`
@@ -339,17 +338,17 @@ scope
     * `hardware`
     * `data`
     - `theories`
-- [ ] The method section explains the design of the experiments
-that will evaluate the computational artifact
-- [ ] The method section explains how to calculate and/or collect the
-evaluation metrics
+- [ ] The method section explains the design of the experiments that will
+evaluate the computational artifact
+- [ ] The method section explains how to calculate and/or collect the evaluation
+metrics
 - [ ] The method section references the GitHub repository that contains the
-  implementation of the project's computational artifact(s)
-- [ ] The method section gives examples of the input and output of the
-  project's computational artifact(s) and, when appropriate, explains how to
-  run the computational artifact (note that the `README.md` file of the GitHub
-  repository that contains the computational artifact(s) should furnish
-  complete details about the input, output, behavior, and use of the project)
+implementation of the project's computational artifact(s)
+- [ ] The method section gives examples of the input and output of the project's
+computational artifact(s) and, when appropriate, explains how to run the
+computational artifact (note that the `README.md` file of the GitHub repository
+that contains the computational artifact(s) should furnish complete details
+about the input, output, behavior, and use of the project)
 
 #### Experimental Results Section Requirements
 
@@ -383,7 +382,7 @@ continuous integration in GitHub Actions)
 - [ ] The GitHub repository features deliverables that have a clear connection
 to the research project
 - [ ] The GitHub repository contains evidence of regular commits through the
-spring semester
+Fall semester
 - [ ] The computational artifact demonstrates significant technical complexity
 appropriate for `600`-level work
 - [ ] The artifact includes comprehensive error handling and input validation
@@ -409,7 +408,7 @@ approval.
 
 - A project presentation includes the following components with these time
 limits:
-    - Project presentation presentation:  10 minutes
+    - Project presentation:  10 minutes
     - Demonstration of computation artifact: 3 minutes
     - Question and answer session: 2 minutes
     - Total time of presentation session: 15 minutes
@@ -473,8 +472,8 @@ both academic and professional development:
 GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26)
 
 This course relies heavily on the above GitHub organization. Your work will be
-assigned and evaluated on and crucial communication distributed through these
-the GitHub platform. You are responsible for accepting and maintaining GitHub
+assigned and evaluated on and crucial communication distributed through the
+GitHub platform. You are responsible for accepting and maintaining GitHub
 repositories for each of the assigned course projects. Repositories include
 completion- and submission-specific instructions via `README` files. Many of
 these operations feature using GitHub's tagging mechanism to release PDFs of
@@ -500,10 +499,10 @@ sessions.
 ### Email Policy
 
 Despite the fact that the majority of our communication relies on the
-[ReadyResearchers Organization on
+[Allegheny College Computer Science 600/610 Organization on
 GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
 will also use email to communicate significant information. As with other the
-other platforms used by this course, it is your responsibility to be accountable
+GitHub platform used by this course, it is your responsibility to be accountable
 for email communication.
 
 ### Syllabus Revision
@@ -519,9 +518,10 @@ advance of the due date of the deliverable affected.
 ### Honor Code
 
 All students and faculty at Allegheny College are bound by the Honor Code.
-Everyone expects that your behavior reflects this commitment.
-Given the eminently shareable and reproducible nature of code, the Department of
-Computer Science adds the following statement to the general college policy:
+Everyone expects that your behavior reflects this commitment. Given the
+eminently shareable and reproducible nature of code, the Department of Computer
+and Information Science adds the following statement to the general college
+policy:
 
 > It is recognized that an important part of the learning process in any course,
 and particularly in computer science, derives from thoughtful discussions with
