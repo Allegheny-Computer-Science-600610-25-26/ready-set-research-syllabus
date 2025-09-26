@@ -292,7 +292,7 @@ research project
 - [ ] The thesis follows a logical flow at the level of chapters, sections,
   subsections, and individual paragraphs
 - [ ] The thesis includes appropriate visual aids, which fall under the broad
-  categories of:
+  categories of (minimum `5`):
     * `image`
     * `figure`
     * `table`
@@ -327,8 +327,8 @@ scope
 #### Method Section Requirements
 
 - [ ] The method section explains the process utilized in the completed study
-- [ ] The method section addresses as many of the following which are applicable
-(minimum `1`):
+- [ ] The method section addresses as many of the following that are applicable
+(minimum `3`):
     * `description of algorithms`
     * `programming languages`
     * `libraries`
