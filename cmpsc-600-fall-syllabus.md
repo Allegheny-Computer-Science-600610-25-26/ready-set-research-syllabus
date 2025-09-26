@@ -147,26 +147,26 @@ For the purposes of evaluation, this course is separated into both "primary" and
 
 |**Deliverable**                 |**Primary/secondary requirement**       |
 |:-------------------------------|:---------------------------------------|
-|Research Journal                |Secondary                               |
 |Class Participation             |Secondary                               |
-|Process Commitment              |Secondary                               |
-|Proposal Pitch                  |Primary                                 |
+|Research Journal                |Secondary                               |
+|Adviser Meetings                |Secondary                               |
+|Project Presentation            |Primary                                 |
+|Project Demonstration           |Primary                                 |
 |Thesis Chapters                 |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
 
-To pass `CMPSC 600`, submission of and participation in all of the primary
-requirements is mandatory.
-In addition to an overall evaluation of each category, a student's work in
-`CMPSC 600` will be evaluated according to each of the following baseline
-requirements.
-Students who are enrolled in `DOUBL 600` are also required to write a course
-contract that describes the deliverables and the deadlines by which they will
-complete them for both `CMPSC 600` and the course for their additional major.
-Importantly, students in `DOUBL 600` must complete _all_ of the requirements for
-_both_ `CMPSC 600` _and_ the `600` course connected to their other major.
-Students who enroll in `DOUBL 600` should submit their course contract to both
-of their first readers and the `CMPSC 600` course coordinator.
+To pass `CMPSC 600`, submission of and participation in all the primary
+requirements is mandatory. In addition to an overall evaluation of each
+category, a student's work in `CMPSC 600` will be evaluated according to each of
+the following baseline requirements. Students who are enrolled in `DOUBL 600`
+are also required to write a course contract that describes the deliverables and
+the deadlines by which they will complete them for both `CMPSC 600` and the
+course for their additional major. Importantly, students in `DOUBL 600` must
+complete _all_ the requirements for _both_ `CMPSC 600` _and_ the `600` course
+connected to their other major. Students who enroll in `DOUBL 600` should submit
+their course contract to both of their first readers and the `CMPSC 600` course
+coordinator.
 
 ### Deliverable Descriptions
 
@@ -174,7 +174,7 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The student created a Google Doc to record details about their meetings with the first reader and additional
     research notes
   - [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
-  - [ ] The contents of the research notebook have regular dated entries throughout the Fall 2023 semester
+  - [ ] The contents of the research notebook have regular dated entries throughout the Fall 2025 semester
   - [ ] The contents of the research notebook have a clear connection to the research project
   - [ ] The contents of the research notebook give evidence of regular progress on the research project
 
@@ -191,7 +191,7 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The student demonstrated growth in their ability to conduct research in computer science
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
-- **Project Pitch**
+- **Project Presentation**
   - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
   - [ ] The student gave the project pitch on the assigned date
   - [ ] The project pitch featured effective and well-designed slides
@@ -199,8 +199,10 @@ of their first readers and the `CMPSC 600` course coordinator.
   - [ ] The project pitch contained an effective tool demonstration
   - [ ] The project pitch gave a clear project motivation
   - [ ] The student effectively answered the questions from the audience
-  - [ ] The student completed the project pitch within the five-minute time limit
-  - [ ] The student completed the question and answer session within the two-minute time limit
+  - [ ] The student completed the project pitch within the stated time limit
+  - [ ] The student completed the question and answer session within the stated time limit
+
+- **Project Demonstration**
   - [ ] The student completed the tool demonstration within the one-minute time limit
 
 - **General Thesis Requirements**
