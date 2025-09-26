@@ -153,8 +153,8 @@ academic semester.
 |**Deliverable**                 |**Categorization**                      |**Percentage** |
 |:-------------------------------|:---------------------------------------|:-------------|
 |Class Participation             |Secondary                               |5%           |
-|Research Journal                |Secondary                               |10%           |
-|Adviser Meetings                |Secondary                               |10%           |
+|Adviser Meetings                |Secondary                               |5%           |
+|Research Journal                |Secondary                               |5%           |
 |Project Presentation            |Primary                                 |15%           |
 |Project Demonstration           |Primary                                 |15%           |
 |Computational Artifact          |Primary                                 |15%           |
