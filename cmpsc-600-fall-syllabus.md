@@ -151,15 +151,15 @@ presents itself, the course coordinator may, for instance, change the assigned
 percentages during the academic semester.
 
 
-|**Deliverable**                 |**Categorization**                      |**Percentage** |
-|:-------------------------------|:---------------------------------------|:-------------|
-|Class Participation             |Secondary                               |5%           |
-|Adviser Meetings                |Secondary                               |5%           |
-|Research Journal                |Secondary                               |5%           |
-|Computational Artifact          |Primary                                 |15%           |
-|Project Presentation            |Primary                                 |15%           |
-|Project Demonstration           |Primary                                 |15%           |
-|Two Thesis Chapters                 |Primary                                 |30%           |
+|**Deliverable**        |**Categorization** |**Percentage** |
+|:----------------------|:------------------|:--------------|
+|Class Participation    |Secondary          |5%             |
+|Adviser Meetings       |Secondary          |5%             |
+|Research Journal       |Secondary          |5%             |
+|Computational Artifact |Primary            |15%            |
+|Project Presentation   |Primary            |15%            |
+|Project Demonstration  |Primary            |15%            |
+|Two Thesis Chapters    |Primary            |30%            |
 
 
 To pass a `600`-level course in Computer and Information Science, submission of
