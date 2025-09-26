@@ -144,10 +144,10 @@ deployed into production use.
 For the purposes of evaluation, this course is separated into both "primary" and
 "secondary" requirements, as explained in the following table. This table
 includes the name of the deliverable, its categorization as either a primary or
-secondary, and the assigned percentage of the overall course grade. All of these
-percentages are approximate and, if the need to do so presents itself, the
-course coordinator may, for instance, change the assigned percentages during the
-academic semester.
+a secondary requirement, and the assigned percentage of the overall course
+grade. All of these percentages are approximate and, if the need to do so
+presents itself, the course coordinator may, for instance, change the assigned
+percentages during the academic semester.
 
 
 |**Deliverable**                 |**Categorization**                      |**Percentage** |
@@ -155,10 +155,10 @@ academic semester.
 |Class Participation             |Secondary                               |5%           |
 |Adviser Meetings                |Secondary                               |5%           |
 |Research Journal                |Secondary                               |5%           |
-|Project Presentation            |Primary                                 |15%           |
-|Project Demonstration           |Primary                                 |15%           |
 |Computational Artifact          |Primary                                 |15%           |
-|Thesis Chapters                 |Primary                                 |30%           |
+|Project Presentation            |Primary                                 |20%           |
+|Project Demonstration           |Primary                                 |20%           |
+|Thesis Chapters                 |Primary                                 |20%           |
 
 
 To pass a `600`-level course in Computer and Information Science, submission of
