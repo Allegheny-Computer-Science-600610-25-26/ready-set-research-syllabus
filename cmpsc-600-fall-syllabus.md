@@ -400,23 +400,26 @@ approval.
 
 ### Additional Details
 
-- A project presentation includes the following components with the stated time limits
+- A project presentation includes the following components with these time
+limits:
     - Project presentation presentation:  10 minutes
     - Demonstration of computation artifact: 3 minutes
     - Question and answer session: 2 minutes
+    - Total time of presentation session: 15 minutes
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
-  of project presentations.
+of project presentations.
 - Since project presentations will take place in both Alden 101 and Alden 109,
-  approximately half of the students should attend defenses in one room and half
-  should do the same in the other room.
+approximately half of the students should attend defenses in one room and half
+should do the same in the other room.
 - Students must submit the first two chapters of their senior thesis document.
-  The thesis chapters are only required to adhere to those requirements that
-  might be reasonably completed during `CMPSC 600`. For instance, students are
-  not required to have a senior thesis document that meets the overall word
-  count requirement until they have completed `CMPSC 610`. Students who have
-  questions about the assessment requirements for `CMPSC 600` are encouraged to
-  contact their first reader and the `CMPSC 600` course coordinator.
+The thesis chapters are only required to adhere to those requirements that might
+be reasonably completed during a `600`-level course in Computer and Information
+Science. For instance, students are not required to have a senior thesis
+document that meets the overall word count requirement until they have completed
+a `610`-level course in Computer and Information Science. Students who have
+questions about the assessment requirements for this `600`-level comprehensive
+project are encouraged to contact their first reader and the course coordinator.
 
 ### Course Schedule
 
