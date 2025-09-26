@@ -187,12 +187,13 @@ Computer and Information Science.
 
 ### Deliverable Descriptions
 
-- **Class Participation**
+#### Class Participation
 
 - [ ] The student regularly attended the weekly class sessions
-- [ ] The student actively participated in the weekly in-person class
-discussions
-- [ ] The student actively participated in the online discussions in Discord
+- [ ] The student actively participated in the weekly in-person class discussions
+- [ ] The student contributed meaningfully to peer feedback sessions
+- [ ] The student asked thoughtful questions during presentations and discussions
+- [ ] The student demonstrated professional behavior and respect for others
 
 - **Adviser Meetings**
 
@@ -210,16 +211,14 @@ course's research process
 
 - **Research Notebook**
 
-- [ ] The student created a research notebook to record details about their
-meetings with the first reader and additional research notes
-- [ ] The research notebook contains evidence of numerous dated entries for
-research meetings and additional notes
-- [ ] After creation, the contents of the research notebook have regular dated
-entries throughout the Fall 2025 semester
-- [ ] The contents of the research notebook have a clear connection to the
-research project
-- [ ] The contents of the research notebook give evidence of regular progress on
-the research project
+- [ ] The student created a research notebook to record details about their meetings with the first reader and additional research notes
+- [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
+- [ ] After creation, the contents of the research notebook have regular dated entries throughout the Fall 2025 semester
+- [ ] The contents of the research notebook have a clear connection to the research project
+- [ ] The contents of the research notebook give evidence of regular progress on the research project
+- [ ] The research notebook demonstrates critical thinking and reflection on research challenges
+- [ ] The research notebook includes references to relevant literature and resources
+- [ ] The research notebook shows evidence of iterative problem-solving and decision-making
 
 - **Project Presentation**
 
@@ -231,10 +230,25 @@ the research project
 - [ ] The student effectively answered the questions from the audience
 - [ ] The student completed the project presentation within the stated time limit
 - [ ] The student completed the question and answer session within the stated time limit
+- [ ] The presentation demonstrated clear understanding of the research problem and solution
+- [ ] The presentation included appropriate technical depth for the audience
+- [ ] The presentation showed evidence of thorough preparation and practice
+- [ ] The presentation effectively communicated the broader impact and significance of the work
 
 - **Project Demonstration**
 
 - [ ] The student completed the tool demonstration within the stated time limit
+- [ ] The demonstration clearly shows the computational artifact in action with real input/output examples
+- [ ] The student effectively explained the core functionality and purpose of their tool
+- [ ] The demonstration included multiple key features or use cases of the computational artifact
+- [ ] The student handled technical difficulties or unexpected issues professionally during the demo
+- [ ] The demonstrated tool aligns with the research objectives outlined in the thesis
+- [ ] The student showed evidence of testing or validation during the demonstration
+- [ ] The demonstration was well-organized and followed a logical sequence
+- [ ] The student effectively responded to technical questions about their tool's implementation
+- [ ] The computational artifact demonstrated represents substantial technical achievement
+- [ ] The demonstration showed the tool's practical applicability and potential impact
+- [ ] The student clearly articulated any limitations or future improvements needed
 
 - **General Thesis Requirements**
 
@@ -320,19 +334,17 @@ the research project
 
 - **Computational Artifact**
 
-- [ ] The artifact's source code exists in a publicly available GitHub
-  repository
-- [ ] The artifact's GitHub repository contains documentation on how to
-  install and use it
-- [ ] It is possible for a computer scientist who is not the creator of the
-  GitHub repository to install and use the computational artifact
-- [ ] The artifact's GitHub repository contains sufficient evidence of
-  best practices for software development (e.g., test suites, linters, and the
-  setup of continuous integration in GitHub Actions)
-- [ ] The GitHub repository features deliverables that have a clear
-  connection to the research project
-- [ ] The GitHub repository contains evidence of regular commits through
-  the spring semester
+- [ ] The artifact's source code exists in a publicly available GitHub repository
+- [ ] The artifact's GitHub repository contains documentation on how to install and use it
+- [ ] It is possible for a computer scientist who is not the creator of the GitHub repository to install and use the computational artifact
+- [ ] The artifact's GitHub repository contains sufficient evidence of best practices for software development (e.g., test suites, linters, and the setup of continuous integration in GitHub Actions)
+- [ ] The GitHub repository features deliverables that have a clear connection to the research project
+- [ ] The GitHub repository contains evidence of regular commits through the spring semester
+- [ ] The computational artifact demonstrates significant technical complexity appropriate for senior-level work
+- [ ] The artifact includes comprehensive error handling and input validation
+- [ ] The repository contains clear examples and usage demonstrations
+- [ ] The artifact's code is well-structured, readable, and follows appropriate design patterns
+- [ ] The computational artifact successfully addresses the research problem as outlined in the proposal
 
 ### Institutional Review Board (IRB) Proposals
 
