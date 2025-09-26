@@ -167,9 +167,9 @@ and participation in all the primary requirements is mandatory. In addition to
 an overall evaluation of each category, a student's work in the `600`-level
 Computer and Information Science course will be evaluated according to each of
 the following baseline requirements. Please note that these requirements
-articulate baseline requirements for the `600`-level course in Computer and
-Information Science and are provided as a list of minimum requirements that a
-specific research deliverables must meet to be assessed as complete. Before the
+articulate a baseline for the `600`-level course in Computer and Information
+Science and are provided as a list of minimum requirements that all specific
+research deliverables must meet to be assessed as complete. Before the
 submission of a final grade, a student's assessment scores for these categories
 will be initially assigned by their first reader, reviewed by their second
 reader, and ultimately approved by all faculty members who are instructors for a
@@ -409,9 +409,6 @@ limits:
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
 of project presentations.
-- Since project presentations will take place in both Alden 101 and Alden 109,
-approximately half of the students should attend defenses in one room and half
-should do the same in the other room.
 - Students must submit the first two chapters of their senior thesis document.
 The thesis chapters are only required to adhere to those requirements that might
 be reasonably completed during a `600`-level course in Computer and Information
