@@ -503,15 +503,13 @@ to be accountable for email communication.
 
 ### Syllabus Revision
 
-The faculty of the Department of Computer Science reserve the right to make
-changes to this syllabus document.
-Should a change occur, they may be discussed with the members of the course
-community.
-Minor revisions to wording that do not impact course events or deliverables may
-be made without notice.
-Any change which impacts dates or significant changes in student responsibility
-will be communicated -- in writing -- at least one week in advance of the due
-date of the deliverable affected.
+The faculty of the Department of Computer and Information Science reserve the
+right to make changes to this syllabus document. Should a change occur, they may
+be discussed with the members of the course community. Minor revisions to
+wording that do not impact course events or deliverables may be made without
+notice. Any change which impacts dates or significant changes in student
+responsibility will be communicated -- in writing -- at least one week in
+advance of the due date of the deliverable affected.
 
 ### Honor Code
 
@@ -522,18 +520,15 @@ Computer Science adds the following statement to the general college policy:
 
 > It is recognized that an important part of the learning process in any course,
 and particularly in computer science, derives from thoughtful discussions with
-teachers, student assistants, and fellow students.
-Such dialogue is encouraged.
+teachers, student assistants, and fellow students. Such dialogue is encouraged.
 However, it is necessary to distinguish carefully between the student who
 discusses the principles underlying a problem with others, and the student who
 produces assignments that are identical to, or merely variations on, someone
-else’s work.
-It will therefore be understood that all assignments submitted to faculty of the
-Department of Computer Science are to be the original work of the student
-submitting the assignment, and should be signed in accordance with the
-provisions of the Honor Code.
-Appropriate action will be taken when assignments give evidence that they were
-derived from the work of others.
+else’s work. It will therefore be understood that all assignments submitted to
+faculty of the Department of Computer Science are to be the original work of the
+student submitting the assignment, and should be signed in accordance with the
+provisions of the Honor Code. Appropriate action will be taken when assignments
+give evidence that they were derived from the work of others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
