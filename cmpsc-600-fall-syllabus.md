@@ -142,37 +142,49 @@ deployed into production use.
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
-"secondary" requirements, as explained in the following table.
+"secondary" requirements, as explained in the following table. This table
+includes the name of the deliverable, its categorization as either a primary or
+secondary, and the assigned percentage of the overall course grade. All of these
+percentages are approximate and, if the need to do so presents itself, the
+course coordinator may, for instance, change the assigned percentages during the
+academic semester.
 
 
-|**Deliverable**                 |**Primary/secondary requirement**       |
-|:-------------------------------|:---------------------------------------|
-|Class Participation             |Secondary                               |
-|Research Journal                |Secondary                               |
-|Adviser Meetings                |Secondary                               |
-|Project Presentation            |Primary                                 |
-|Project Demonstration           |Primary                                 |
-|Thesis Chapters                 |Primary                                 |
-|Computational Artifact          |Primary                                 |
+|**Deliverable**                 |**Categorization**                      |**Percentage** |
+|:-------------------------------|:---------------------------------------|:-------------|
+|Class Participation             |Secondary                               |10%           |
+|Research Journal                |Secondary                               |10%           |
+|Adviser Meetings                |Secondary                               |10%           |
+|Project Presentation            |Primary                                 |15%           |
+|Project Demonstration           |Primary                                 |15%           |
+|Computational Artifact          |Primary                                 |10%           |
+|Thesis Chapters                 |Primary                                 |30%           |
 
 
-To pass `CMPSC 600`, submission of and participation in all the primary
-requirements is mandatory. In addition to an overall evaluation of each
-category, a student's work in `CMPSC 600` will be evaluated according to each of
-the following baseline requirements. Students who are enrolled in `DOUBL 600`
-are also required to write a course contract that describes the deliverables and
-the deadlines by which they will complete them for both `CMPSC 600` and the
-course for their additional major. Importantly, students in `DOUBL 600` must
-complete _all_ the requirements for _both_ `CMPSC 600` _and_ the `600` course
-connected to their other major. Students who enroll in `DOUBL 600` should submit
-their course contract to both of their first readers and the `CMPSC 600` course
-coordinator.
+To pass a `600`-level course in Computer and Information Science, submission of
+and participation in all the primary requirements is mandatory. In addition to
+an overall evaluation of each category, a student's work in the `600`-level
+Computer and Information Science course will be evaluated according to each of
+the following baseline requirements. Please note that these requirements
+articulate baseline requirements for the `600`-level course in Computer and
+Information Science and are provided as a list of minimum requirements that a
+specific research deliverables must meet to be assessed as complete.
+
+Students who are enrolled in `DOUBL 600` are also required to write a course
+contract that describes the deliverables and the deadlines by which they will
+complete them for both `600`-level course in Computer and Information Science
+and the course for their additional major. Importantly, students in `DOUBL 600`
+must complete _all_ the requirements for _both_ the `600`-level course in
+Computer and Information Science _and_ the `600` course connected to their other
+major. Students who enroll in `DOUBL 600` should submit their course contract to
+both of their first readers and the coordinator of the `600`-level course in
+Computer and Information Science.
 
 ### Deliverable Descriptions
 
 - **Research Notebook**
 
-- [ ] The student created a Google Doc to record details about their meetings
+- [ ] The student created a research notebook to record details about their meetings
 with the first reader and additional research notes
 - [ ] The research notebook contains evidence of numerous dated entries for
 research meetings and additional notes
