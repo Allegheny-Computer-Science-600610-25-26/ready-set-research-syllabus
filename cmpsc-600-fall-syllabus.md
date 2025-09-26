@@ -337,7 +337,7 @@ scope
     * `software`
     * `hardware`
     * `data`
-    - `theories`
+    * `theories`
 - [ ] The method section explains the design of the experiments that will
 evaluate the computational artifact
 - [ ] The method section explains how to calculate and/or collect the evaluation
@@ -530,10 +530,11 @@ However, it is necessary to distinguish carefully between the student who
 discusses the principles underlying a problem with others, and the student who
 produces assignments that are identical to, or merely variations on, someone
 else’s work. It will therefore be understood that all assignments submitted to
-faculty of the Department of Computer Science are to be the original work of the
-student submitting the assignment, and should be signed in accordance with the
-provisions of the Honor Code. Appropriate action will be taken when assignments
-give evidence that they were derived from the work of others.
+faculty of the Department of Computer and Information Science are to be the
+original work of the student submitting the assignment, and should be signed in
+accordance with the provisions of the Honor Code. Appropriate action will be
+taken when assignments give evidence that they were derived from the work of
+others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
@@ -595,9 +596,11 @@ your effort. These guidelines follow industry best practices and prepare you for
 integrating current and future generations of these AI technologies into your
 set of computational skills.
 
-<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. 2024. Plagiarism in the Age of Generative AI: 
-Cheating Method Change and Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM Conference on Learning @ Scale (L@S '24)_. 
-Association for Computing Machinery, New York, NY, USA, 75–85. https://doi.org/10.1145/3657604.36620
+<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
+2024. Plagiarism in the Age of Generative AI: Cheating Method Change and
+Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
+Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery,
+New York, NY, USA, 75–85.
 
 ### Seeking Assistance
 
