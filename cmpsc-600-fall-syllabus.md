@@ -477,9 +477,11 @@ repositories for each of the assigned course projects. Repositories include
 completion- and submission-specific instructions via `README` files. Many of
 these operations feature using GitHub's tagging mechanism to release PDFs of
 your content with versions that adhere to the course's semantic versioning
-standard. Students are invited to create and share their own GitHub repositories
-for the source code, documentation, and data sets connected with their senior
-comprehensive project.
+standard. Students are invited to use the course's GitHub organization to create
+and share their own GitHub repositories for the source code, documentation, and
+data sets connected with their senior comprehensive project. Importantly, each
+of these GitHub repositories created by students must adhere to the syllabus'
+requirements for the deliverable in that repository.
 
 **Course instructors will only grade and provide feedback on projects that are
 stored in and properly released through GitHub.**
