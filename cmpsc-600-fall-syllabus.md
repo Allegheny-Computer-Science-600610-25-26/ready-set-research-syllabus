@@ -303,7 +303,7 @@ research project
 - [ ] The thesis highlights and explains the societal impacts and ethical
   implications of the completed research
 - [ ] There are no typographical or grammatical errors in the thesis
-- [ ] There is no extraneous text in the thesis
+- [ ] There is no extraneous text in the thesis (e.g., text from the thesis template)
 
 #### Introduction Section Requirements
 
