@@ -628,9 +628,8 @@ Do not wait until the end of the semester.
 
 Part of our role as course instructors is to make sure that students receive the
 assistance they need. Do not hesitate to let us know if there is anything we can
-do with respect to your ability to handle your work. This is especially true of
-our current circumstances of the on-going global pandemic. Again, let us remind
-and encourage you -- _**it is part of our job**_ to help you access Allegheny
+do with respect to your ability to handle your work. Again, let us remind and
+encourage you -- _**it is part of our job**_ to help you access Allegheny
 College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
