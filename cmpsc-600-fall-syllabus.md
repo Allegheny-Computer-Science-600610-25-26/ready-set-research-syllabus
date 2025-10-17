@@ -309,8 +309,8 @@ research project
 
 - [ ] The introduction section clearly describes the completed work
 - [ ] The introduction section motivates the completed work from a professional
-perspective focused on science, technology, engineering, mathematics, and
-societal implications
+perspective focused on science, technology, engineering, mathematics, broader
+impacts, and societal implications
 - [ ] The introduction section outlines the ethical implications of the thesis
 - [ ] The introduction outlines the structure of the senior comprehensive
 project
