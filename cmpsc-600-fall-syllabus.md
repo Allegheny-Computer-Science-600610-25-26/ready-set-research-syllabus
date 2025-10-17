@@ -265,8 +265,8 @@ demonstration
 - [ ] The demonstration was well-organized and followed a logical sequence
 - [ ] The computational artifact demonstrated represents substantial technical
 achievement
-- [ ] The demonstration showed the tool's practical applicability and potential
-impact
+- [ ] The demonstration showed the computational artifact's practical
+applicability and potential impact
 - [ ] The student clearly articulated any limitations or future improvements
 needed
 - [ ] The project demonstration showed the overall feasibility of the proposed
