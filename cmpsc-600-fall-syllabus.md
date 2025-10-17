@@ -10,7 +10,7 @@ and research inherent to both academic life and a career as a computer
 scientist, data scientist, or software engineer. To that end, you will work
 closely with your readers to explore rich, ever-complex, projects. Though the
 faculty cannot promise that this work will be frustration- or challenge-free, we
-invite you to pursue it with great enthusiasm, vigor, and to -- above all --
+invite you to pursue it with great enthusiasm, vigor, and to --- above all ---
 find joy in the process.
 
 ## Course Description
@@ -153,13 +153,13 @@ percentages during the academic semester.
 
 |**Deliverable**        |**Categorization** |**Percentage** |
 |:----------------------|:------------------|:--------------|
+|Research Notebook       |Secondary          |5%             |
 |Class Participation    |Secondary          |7.5%             |
 |Adviser Meetings       |Secondary          |7.5%             |
-|Research Notebook       |Secondary          |10%             |
 |Computational Artifact |Primary            |15%            |
 |Project Presentation   |Primary            |15%            |
 |Project Demonstration  |Primary            |15%            |
-|Two Thesis Chapters    |Primary            |30%            |
+|Two Thesis Chapters    |Primary            |35%            |
 
 
 To pass a `600`-level course in Computer and Information Science, submission of
