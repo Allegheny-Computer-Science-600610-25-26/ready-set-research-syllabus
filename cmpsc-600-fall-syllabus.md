@@ -282,7 +282,8 @@ research project
   the GitHub repository of the thesis contains a release greater than `1.0.0`
   for the work in CMPSC 600 and a release greater than `2.0.0` for CMPSC 610
 - [ ] The thesis has the correct format created through the use of Pandoc and
-  LaTeX and the senior thesis template for the Department of Computer Science
+  LaTeX and the senior thesis template for the Department of Computer and
+  Information Science
 - [ ] The title of the thesis is both interesting and appropriate
 - [ ] The thesis includes at least twelve references
 - [ ] Unless there is a convincing reason to require otherwise, each chapter
