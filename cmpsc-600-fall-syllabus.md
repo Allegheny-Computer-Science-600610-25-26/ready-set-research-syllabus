@@ -308,12 +308,14 @@ research project
 #### Introduction Section Requirements
 
 - [ ] The introduction section clearly describes the completed work
-- [ ] The introduction section motivates the completed work from a
-  professional perspective focused on science, technology, engineering,
-  mathematics, and societal implications
+- [ ] The introduction section motivates the completed work from a professional
+perspective focused on science, technology, engineering, mathematics, and
+societal implications
 - [ ] The introduction section outlines the ethical implications of the thesis
 - [ ] The introduction outlines the structure of the senior comprehensive
 project
+- [ ] The introduction section articulates the overall contributions of the
+senior comprehensive project
 
 #### Related Work Section Requirements
 
@@ -324,6 +326,8 @@ thesis
 literature
 - [ ] The related work section situates the completed project in the broader
 scope
+- [ ] The related work section furnishes content that supports the other
+chapters of the thesis
 
 #### Method Section Requirements
 
