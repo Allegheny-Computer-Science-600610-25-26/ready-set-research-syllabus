@@ -16,6 +16,12 @@ Comprehensive Project.
 - [ ] I agree to adhere to the Allegheny College Honor Code during the
 completion of my Senior Comprehensive Project.
 
+## GitHub Username
+
+A student should type their GitHub username below.
+
+- **GitHub Username**: `Add Your GitHub Username Here`
+
 ## Project Title
 
 A student should type the title of their senior comprehensive project
@@ -25,10 +31,3 @@ into the following fenced code block.
 Add the Title of Your Senior Comprehensive Project
 ```
 
-## GitHub Username
-
-A student should type their GitHub username below.
-
-- **GitHub Username**: `Add Your GitHub Username Here`
-
-##
