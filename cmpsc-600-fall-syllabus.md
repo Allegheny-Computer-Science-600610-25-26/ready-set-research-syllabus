@@ -290,7 +290,7 @@ research project
 - [ ] Unless there is a convincing reason to require otherwise, each chapter
   in the senior thesis should contain at least ten to twenty pages of
   contents formatted in the required style
-- [ ] The completed thesis consists of at least `7500` words
+- [ ] The completed thesis consists of at least `15,000` words
 - [ ] The thesis follows a logical flow at the level of chapters, sections,
   subsections, and individual paragraphs
 - [ ] The thesis includes appropriate visual aids, which fall under the broad
