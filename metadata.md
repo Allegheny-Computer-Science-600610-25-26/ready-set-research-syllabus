@@ -22,6 +22,19 @@ A student should type their GitHub username below.
 
 - **GitHub Username**: `Add Your GitHub Username Here`
 
+## GitHub Repositories
+
+### GitHub Repository for Senior Thesis Chapters and Research Journal
+
+- **Repository URL**: [Add URL of Your GitHub Repository for Senior Thesis
+Chapters and Research Journal Here](Add URL of Your GitHub Repository for Senior
+Thesis Chapters and Research Journal Here)
+
+### GitHub Repository for Code and Data
+
+- **Repository URL**: [Add URL of Your GitHub Repository for Code and Data
+Here](Add URL of Your GitHub Repository for Code and Data Here)
+
 ## Project Title
 
 A student should type the title of their senior comprehensive project
