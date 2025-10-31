@@ -28,10 +28,9 @@ A student should type their GitHub username below.
 
 - **Repository URL**: [URL of GitHub Repository for Chapters and Journal](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
 
-### GitHub Repository for Code and Data
+### GitHub Repository for Computational Artifact
 
-- **Repository URL**: [Add URL of Your GitHub Repository for Code and Data
-Here](Add URL of Your GitHub Repository for Code and Data Here)
+- **Repository URL**: [URL of GitHub Repository for Computational Artifact](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
 
 ## Project Title
 
@@ -41,4 +40,3 @@ into the following fenced code block.
 ```
 Add the Title of Your Senior Comprehensive Project
 ```
-
