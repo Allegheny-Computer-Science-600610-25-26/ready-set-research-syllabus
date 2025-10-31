@@ -1,12 +1,17 @@
 # Metadata for Senior Comprehensive Project
 
-## Honor Code Pledge
+## Student Name
 
-A student should type their name and add an X-mark to the box
-to indicate that they agree to adhere to the Allegheny College
-Honor Code during the completion of their Senior Comprehensive Project.
+A student should type their name below.
 
 - **Student Name**: `Add Your Name Here`
+
+## Honor Code Pledge
+
+A student should add an X-mark to the box to indicate that they agree to adhere
+to the Allegheny College Honor Code during the completion of their Senior
+Comprehensive Project.
+
 
 - [ ] I agree to adhere to the Allegheny College Honor Code during the
 completion of my Senior Comprehensive Project.
