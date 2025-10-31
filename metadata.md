@@ -26,9 +26,7 @@ A student should type their GitHub username below.
 
 ### GitHub Repository for Senior Thesis Chapters and Research Journal
 
-- **Repository URL**: [Add URL of Your GitHub Repository for Senior Thesis
-Chapters and Research Journal Here](Add URL of Your GitHub Repository for Senior
-Thesis Chapters and Research Journal Here)
+- **Repository URL**: [URL of GitHub Repository for Chapters and Journal](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
 
 ### GitHub Repository for Code and Data
 
