@@ -160,18 +160,16 @@ percentages during the academic semester.
 To pass a `610`-level course in Computer and Information Science, submission of
 and participation in all the primary requirements is mandatory. In addition to
 an overall evaluation of each category, a student's work in the `610`-level
-Computer and Information Science course will be evaluated according to each of
-the following baseline requirements. Please note that these requirements
-articulate a baseline for the `610`-level course in Computer and Information
-Science and are provided as a list of minimum requirements that all specific
-research deliverables must meet to be assessed as complete. Please note that the
-only baseline requirements in the following `General Thesis Requirements`
-section that will contribute to a student's grade in this course are those that
-reasonably pertain the deliverables in the `610`-level course. Before the
-submission of a final grade, a student's assessment scores for these categories
-will be initially assigned by their first reader, reviewed by their second
-reader, approved by all faculty members who are instructors for a `610`-level
-course in Computer and Information Science at Allegheny College.
+Computer and Information Science course will be evaluated according to the
+baseline requirements outline in the syllabus for the 600-level course.
+
+Please note that these requirements articulate a baseline for the `610`-level
+course in Computer and Information Science and are provided as a list of minimum
+requirements that all specific research deliverables must meet to be assessed as
+complete. Before the submission of a final grade, a student's assessment scores
+for these categories will be initially assigned by their first reader, reviewed
+by their second reader, approved by all faculty members who are instructors for
+a `610`-level course in Computer and Information Science at Allegheny College.
 
 Students who are enrolled in `DOUBL 610` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
@@ -182,18 +180,6 @@ Computer and Information Science _and_ the `610` course connected to their other
 major. Students who enroll in `DOUBL 610` should submit their course contract to
 both of their first readers and the coordinator of the `610`-level course in
 Computer and Information Science.
-
-To pass `CMPSC 610`, submission of and participation in all the primary
-requirements is mandatory. In addition to an overall evaluation of each
-category, a student's work in `CMPSC 610` will be evaluated according to each of
-the following baseline requirements. Students who are enrolled in `DOUBL 610`
-are also required to write a course contract that describes the deliverables and
-the deadlines by which they will complete them for both `CMPSC 610` and the
-course for their additional major. Importantly, students in `DOUBL 610` must
-complete _all_ the requirements for _both_ `CMPSC 610` _and_ the `610` course
-connected to their other major. Students who enroll in `DOUBL 610` should submit
-their course contract to both of their first readers and the `CMPSC 610` course
-coordinator.
 
 ### Institutional Review Board (IRB) Proposals
 
