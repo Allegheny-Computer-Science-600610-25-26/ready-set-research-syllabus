@@ -38,107 +38,33 @@ not in the above list of course instructors.
 
 ## Course Schedule
 
-### High-Level Overview
+### High-level Overview
 
-- **Week One (January 16 - 20) through Week Ten (March 20 - 24)**:
-  Implementation, experimentation, and writing.
+- **Week One**: Informal class session due to start of semester
+- **Week Two**: Revise content in chapter one
+- **Week Three**: Revise content in chapter two
+- **Week Four**: Write and revise content in chapter three
+- **Week Five**: Write and revise content in chapter three
+- **Week Six**: Finalize implementation of computational artifact
+- **Week Seven**: No class due to Spring Break
+- **Week Eight**: Write and revise content in chapter four
+- **Week Nine**: Write and revise content in chapter four
+- **Week Ten**: Write and revise content in chapter five
+- **Week Eleven**: Write and revise content in chapter five
+- **Week Twelve**: Complete final revisions to senior thesis and computational
+  artifact
+- **Week Thirteen**: One-third of class gives project presentation and
+  demonstration
+- **Week Fourteen**: One-third of class gives project presentation and
+  demonstration
+- **Week Fifteen**: One-third of class gives project presentation and
+  demonstration
+- **Week Sixteen**: Finalize first all components of Senior Comprehensive
+  Project
+- **Friday, May 1, 2026 by 11:59 PM**: Submit final version of Senior
+  Comprehensive Project
 
-- **March 24 at 11:59 PM**: Submit the final draft version as a tagged release in
-  the document's GitHub repository.
-
-- **Week Eleven (March 27 - 31) through Week Fourteen (April 17 - 21)**: Oral
-  defense of senior theses.
-
-- **Week Fifteen (April 24 - April 28) through Week Sixteen (May 1 - May 5)**:
-  Final revisions to senior thesis document.
-
-- **May 5 at 11:59 PM**: Submit the final version of senior thesis as a tagged
-  release in the document's GitHub repository.
-
-### Detailed Description
-
-- **Week One: January 16 - January 20**: Revise Chapters 1 and 2 from CMPSC 610,
-  completed during the Fall semester.
-
-- **Week Two: January 23 - January 27**: Enhance the computational artifact that
-  is at the center of your research.
-
-- **Week Three: January 30 - February 3**: Write the first draft of content in
-  Chapter 3, called `Methods`.
-
-- **Week Four: February 6 - February 10**: Revise the first draft of Chapter 3
-  and prepare a final version of the `Methods` content.
-
-- **Week Five: February 13 - February 17**: Use the computational artifact to
-  conduct experiments and record and analyze results.
-
-- **Week Six: February 20 - February 24**: Write the first draft of content in
-  Chapter 4, called `Experimental Results`.
-
-- **Week Seven: February 27 - March 3**: Revise the first draft of Chapter 4
-  and prepare a final version of `Experimental Results`.
-
-- **Week Eight: March 6 - March 10**: Spring break.
-
-- **Week Nine: March 13 - March 17**: Write first draft of Chapter 5, called
-  `Discussion and Future Work`.
-
-- **Week Ten: March 20 - March 24**: Finalize all chapters in the senior thesis
-  document.
-
-- **Week Eleven: March 27 - March 31**: Senior thesis defense for four students,
-  with everyone in attendance.
-
-  - **Alden 101**, Faculty Moderator: GMK
-    - Caden Hinkley (First Reader: GMK, First Reader: TN)
-  - **Alden 109**, Faculty Moderator: DL
-    - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
-    - Anthony Grant Cook (First Reader: OBC, Second Reader: JJ)
-
-- **Week Twelve: April 3 - April 7**: Senior thesis defense for five students,
-  with everyone in attendance.
-
-  - **Alden 101**, Faculty Moderator: OBC
-    - Adam Shinomiya (First Reader: GMK, Second Reader: OBC)
-    - Peter Snipes (First Reader: DL, Second Reader: OBC)
-    - Adriana Solis (First Reader: OBC, First Reader: RO); rescheduled to 4:30 PM due to a schedule conflict reported by RO.
-  - **Alden 109**, Faculty Moderator: DL
-    - Kai'lani Woodard (First Reader: DL, First Reader: HB)
-    - Kobe Coleman (First Reader: JJ, Second Reader: GMK)
-
-- **Week Thirteen: April 10 - April 14**: Senior thesis defense for five students,
-  with everyone in attendance.
-
-  - **Alden 101**, Faculty Moderator: OBC
-    - Lex Caldwell (First Reader: DL, Second Reader: OBC)
-    - Kyrie Doniz (First Reader: JJ, First Reader: TB)
-  - **Alden 109**, Faculty Moderator: GMK
-    - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
-    - William Connelly (First Reader: GMK, Second Reader: DL)
-    - Favour Ojo (First Reader: DL, Second Reader: GMK)
-
-- **Week Fourteen: April 17 - April 21**: Senior thesis defense for six students,
-  with everyone in attendance.
-
-  - **Alden 101**, Faculty Moderator: OBC
-    - Liam Black (First Reader: OBC, Second Reader: DL)
-    - Abigail Waryanka (First Reader: OBC, First Reader: BD)
-    - Andre Hance (First Reader: OBC, Second Reader: JJ)
-  - **Alden 109**, Faculty Moderator: GMK
-    - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
-    - Gary Chen (First Reader: JJ, Second Reader: GMK)
-    - Paige Downey (First Reader: JJ, Second Reader: DL)
-
-- **Week Fifteen: April 24 - April 28**: Revise all of the senior thesis
-  chapters according to feedback from your thesis defense.
-
-- **Week Sixteen: May 1**: Revise all of the senior thesis
-  chapters according to feedback from your thesis defense.
-
-- **Final Draft Thesis Due: March 24**: Submit through a tagged release in
-  GitHub the final draft version of your undergraduate senior thesis. Although
-  potentially subject to revision, this is the version of your thesis that you
-  will defend and that your presentation slides should reflect.
+More details:
 
 - **Final Thesis Due: May 5**: Submit through a tagged release in GitHub the
   final version of your undergraduate senior thesis.
@@ -152,41 +78,6 @@ not in the above list of course instructors.
 
 - **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15 at 9:00 AM**:
   Faculty submit the final grades for the CMPSC 610 course to the registrar.
-
-### Additional Details
-
-- Unless specified otherwise, students will defend their senior thesis on the
-  Tuesday during which their name is referenced in the course schedule. For
-  instance, students who are scheduled to present on Week Eleven should be
-  prepared to give their presentation on Tuesday, March 28, 2023.
-- Students must upload a PDF of their senior thesis presentation slides to the
-  `#general` channel in the `Ready, Set, Research!` Discord server no later than
-  one week before the end of class on the day on which they are scheduled to
-  give their presentation. For instance, students who present on April 4, 2023
-  must upload their slides to Discord no later than 2:30 PM on March 28, 2023.
-  This requirement is relaxed for those students who present during Week Eleven
-  as they present during the first week of senior thesis defenses. As such,
-  their slides are due on Monday, March 27, 2023 by 2:30 PM.
-- Students who are registered for `DOUBL 610` are responsible for ensuring that
-  the non-CMPSC first reader for their senior comprehensive project is able to
-  attend on the assigned date for their presentation.
-- A senior thesis defense includes the following components with the stated
-  time limits
-  - Senior thesis presentation: 10 minutes
-  - Question and answer session: 5 minutes
-  - Demonstration of computation artifact: 1 minute
-- Presenting students must strictly adhere to the stated time limits.
-- The readers for a senior comprehensive project will submit between three and
-  six additional questions to the GitHub issue tracker in the repository for a
-  student's senior thesis. Students will have twenty-four hours to response to
-  all of the questions that the readers shared in the issue tracker.
-- All students are required to attend and participate as audience members in all
-  of the senior thesis defenses.
-- Since senior thesis defenses will take place in both Alden 101 and Alden 109,
-  approximately half of the students should attend defenses in one room and half
-  should do the same in the other room.
-- Faculty members may need to move from Alden 101 to Alden 109 at least once
-  during weeks eleven through fourteen.
 
 ## Assessment Strategy
 
