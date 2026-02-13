@@ -212,26 +212,22 @@ both academic and professional development:
 |_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
 |_Published_|Thomas Deetjen|B085MQN3Q8 |
 
-### Course Platforms
-
-- [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
-- [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
-
-This course relies heavily on the above GitHub organization and Discord server.
-Your work will be assigned and evaluated on and crucial communication
-distributed through these two platforms.
-You are expected to register for and remain active on these platforms throughout
-the academic year.
-
 ### Course Repositories
 
-You are responsible for accepting and maintaining GitHub repositories for each
-of the assigned course projects.
-Repositories include completion- and submission-specific instructions via
-`README` files.
-Many of these operations feature using GitHub's tagging mechanism to release
-PDFs of your proposal with versions that adhere to the course's semantic
-versioning standard.
+This course relies heavily on the [Computer and Information Science 600/610
+Organization on
+GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26). Your work
+will be assigned and evaluated on and crucial communication distributed through
+the GitHub platform. You are responsible for accepting and maintaining GitHub
+repositories for each of the assigned course projects. Repositories include
+completion- and submission-specific instructions via `README` files. Many of
+these operations feature using GitHub's tagging mechanism to release PDFs of
+your content with versions that adhere to the course's semantic versioning
+standard. Students are invited to use the course's GitHub organization to create
+and share their own GitHub repositories for the source code, documentation, and
+data sets connected with their senior comprehensive project. Importantly, each
+of these GitHub repositories created by students must adhere to the syllabus'
+requirements for the deliverable in that repository.
 
 **Course instructors will only grade and provide feedback on projects that are
 stored in and properly released through GitHub.**
@@ -249,55 +245,52 @@ sessions.
 
 ### Email Policy
 
-Despite the fact that the majority of our communication relies on the [Ready,
-Set, Research!
-Discord Server](https://discord.gg/KBMAHZRH9x) and other platforms such as the
-[ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers),
-the faculty may occasionally use email to communicate significant information.
-As with other the other platforms used by this course, it is your responsibility
-to be accountable for email communication.
+Despite the fact that the majority of our communication relies on the [Computer
+and Information Science 600/610 Organization on
+GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
+will also use email to communicate significant information. As with other the
+GitHub platform used by this course, it is your responsibility to be accountable
+for email communication.
 
 ### Syllabus Revision
 
-The faculty of the Department of Computer Science reserve the right to make
-changes to this syllabus document.
-Should a change occur, they may be discussed with the members of the course
-community.
-Minor revisions to wording that do not impact course events or deliverables may
-be made without notice.
-Any change which impacts dates or significant changes in student responsibility
-will be communicated -- in writing -- at least one week in advance of the due
-date of the deliverable affected.
+The faculty of the Department of Computer and Information Science reserve the
+right to make changes to this syllabus document. Should a change occur, they may
+be discussed with the members of the course community. Minor revisions to
+wording that do not impact course events or deliverables may be made without
+notice. Any change which impacts dates or significant changes in student
+responsibility will be communicated -- in writing -- at least one week in
+advance of the due date of the deliverable affected.
 
 ### Honor Code
 
 All students and faculty at Allegheny College are bound by the Honor Code.
-Everyone expects that your behavior reflects this commitment.
-Given the eminently shareable and reproducible nature of code, the Department of
-Computer Science adds the following statement to the general college policy:
+Everyone expects that your behavior reflects this commitment. Given the
+eminently shareable and reproducible nature of code, the Department of Computer
+and Information Science adds the following statement to the general college
+policy:
 
 > It is recognized that an important part of the learning process in any course,
 > and particularly in computer science, derives from thoughtful discussions with
-> teachers, student assistants, and fellow students.
-> Such dialogue is encouraged.
+> teachers, student assistants, and fellow students. Such dialogue is encouraged.
 > However, it is necessary to distinguish carefully between the student who
 > discusses the principles underlying a problem with others, and the student who
 > produces assignments that are identical to, or merely variations on, someone
-> else’s work.
-> It will therefore be understood that all assignments submitted to faculty of the
-> Department of Computer Science are to be the original work of the student
-> submitting the assignment, and should be signed in accordance with the
-> provisions of the Honor Code.
-> Appropriate action will be taken when assignments give evidence that they were
-> derived from the work of others.
+> else’s work. It will therefore be understood that all assignments submitted to
+> faculty of the Department of Computer and Information Science are to be the
+> original work of the student submitting the assignment, and should be signed in
+> accordance with the provisions of the Honor Code. Appropriate action will be
+> taken when assignments give evidence that they were derived from the work of
+> others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
 general college Honor Code provided in the latest course catalog and in the
-_Compass_.
-
-The above statement, of course, also applies to online forums such as Stack
-Overflow or text generation systems such as ChatGPT.
+_Compass_. The above statement, of course, also applies to online forums such as
+Stack Overflow or text generation systems such as ChatGPT or GitHub Copilot.
+Please review the policy on the use of artificial intelligence tools, referenced
+in this syllabus, for more suggestions concerning the effective use of tools
+like ChatGPT or GitHub Copilot.
 
 ### Classroom Ethics
 
@@ -307,13 +300,62 @@ The faculty encourage you to take time to review the Association for Computing
 Machinery (ACM) [Code of
 Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
 
+### Use of Artificial Intelligence Tools
+
+The course instructors recognize that use of artificial intelligence (AI) tools
+such as Github Copilot, GPT, and Claude has emerged as a professional skill set
+in the knowledge and practices our coursework covers. Department faculty
+maintain a permissive attitude toward these tools by recognizing that you can
+and will use them. We do so considering the following position:
+
+> As a skill, using and correctly applying the results derived from AI tools is
+> both context-based and discretion-worthy: these tools do not always provide
+> correct or workable answers. Industry veterans and expert users run into many
+> situations in which the responses these algorithms provide are plainly
+> incorrect or unfit. In the context of department coursework, accepting an
+> AI-generated answer wholesale or as a small part of an assignment may lead to
+> less-than-satisfactory results in the context of both learning and deliverable
+> quality.
+
+> As a learner, your time at Allegheny is meant to impart the knowledge that
+> enables you to judge the fitness of a given approach, regardless of its
+> origin. In the same way that CIS students employ compilers, integrated
+> development environments, and refactoring tools, the use of an AI tool is not
+> a substitute for developing the fundamental skills that develop this
+> awareness. Importantly, research demonstrates that relying on generated
+> responses reduces a learner’s ability to durably learn these lessons and
+> skills, suggesting that you should cautiously embrace the use of AI when you
+> complete CIS coursework<sup>†</sup>.
+
+Be prepared to support their use in ways including but not limited to:
+
+- citing instances where code has been generated and clearly defining the tools
+  that generated them
+- providing descriptive commentary (including prompts) around generated code
+  either in in-line comments or assignment documentation
+- considering improvements to the generated code, documenting specifics about
+  your modifications and reasoning behind them
+- revising the generated code or documentation so as to ensure that it is more
+  suitable for the purposes of your assignment
+
+Faculty do not intend these requirements as a “gotcha”; we assume the best of
+your effort. These guidelines follow industry best practices and prepare you for
+integrating current and future generations of these AI technologies into your
+set of computational skills.
+
+<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
+2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
+Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
+Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery,
+New York, NY, USA, 75–85.
+
 ### Seeking Assistance
 
 #### Course Assistance
 
-Students who struggle to understand the knowledge and skills introduced in this course
-are encouraged to seek assistance from their first and second readers.
-To meet with your first and second readers, please visit their web site.
+Students who struggle to understand the knowledge and skills introduced in this
+course are encouraged to seek assistance from their first and second readers. To
+meet with your first and second readers, please visit their web site.
 Historically, students who are successful in department courses visit and
 discuss course processes and assignments early and often.
 
@@ -326,30 +368,25 @@ stop**.
 Do not wait until the end of the semester.
 
 Part of our role as course instructors is to make sure that students receive the
-assistance they need.
-Do not hesitate to let us know if there is anything we can do with respect to
-your ability to handle your work.
-This is especially true of our current circumstances of the on-going global
-pandemic.
-Again, let us remind and encourage you -- _**it is part of our job**_ to help
-you access Allegheny College resources that will enable your safety and success.
+assistance they need. Do not hesitate to let us know if there is anything we can
+do with respect to your ability to handle your work. Again, let us remind and
+encourage you -- _**it is part of our job**_ to help you access Allegheny
+College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
 
-- [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
-- [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
-- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
+- [The Maytum Center for Student
+  Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Health and
+  Wellbeing](https://allegheny.edu/student-life/health-and-wellbeing/)
+- [Winslow Health
+  Center](https://allegheny.edu/student-life/health-and-wellbeing/health-center/)
 
 ### Special Needs
 
 Students with disabilities who need accommodations in this course are encouraged
-to contact Disability Services at `+1 814-332-2898`.
-Disability Services is part of the Learning Commons, located in Pelletier
-Library.
-Should you need accommodations, contact this office as soon as possible to
-ensure that approved accommodations are communicated and implemented as quickly
-as possible.
-This serves everyone involved in providing the best environment for learning and
-support.
+to contact Disability Services that is part of the Maytum Center for Student
+Success, located in Pelletier Library. Should you need accommodations, contact
+this office as soon as possible to ensure that approved accommodations are
+communicated and implemented as quickly as possible. This serves everyone
+involved in providing the best environment for learning and support.
