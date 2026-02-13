@@ -76,8 +76,9 @@ not in the above list of course instructors.
 - All students are required to attend and participate as audience members in all
   of project presentations.
 - The final version of the senior thesis must be submitted as a PDF in a tagged
-  release on GitHub by the stated deadline. This document must meet all the
-  baseline requirements outlined in the syllabus for the CMPSC 610 course.
+  release on GitHub by the stated deadline. The final version of all course
+  deliverables must meet all the baseline requirements outlined in the syllabus
+  for the CMPSC 600 course.
 
 ## Assessment Strategy
 
