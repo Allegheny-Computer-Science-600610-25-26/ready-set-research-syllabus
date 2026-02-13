@@ -181,6 +181,10 @@ major. Students who enroll in `DOUBL 610` should submit their course contract to
 both of their first readers and the coordinator of the `610`-level course in
 Computer and Information Science.
 
+**Important Reminder**: Please review the syllabus for the `600`-level course to
+see the listing of the baseline requirements for all components of the senior
+comprehensive project.
+
 ### Institutional Review Board (IRB) Proposals
 
 Should a project require Institutional Review Board (IRB) approval for use of
