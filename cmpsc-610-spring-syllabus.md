@@ -111,6 +111,19 @@ not in the above list of course instructors.
 - Produce an original project that uses a large, complex data set to create a
   web dashboard or extend an existing data science framework via analysis.
 
+#### INFM 610
+
+- Develop a viable and appropriate independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+  of an incremental research notebook and a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both
+  informal discussions, peer reviews and formal presentations.
+- Produce and document a working and completed information-informed artifact.
+- Evaluate the produced artifact and reflect on theoretical, practical, ethical
+  and social impact of the developed artifact.
+- Produce an original project that integrates multiple disciplines and provides
+  critical engagement of impact of technology on various communities.
+
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
@@ -157,18 +170,17 @@ major. Students who enroll in `DOUBL 610` should submit their course contract to
 both of their first readers and the coordinator of the `610`-level course in
 Computer and Information Science.
 
-To pass `CMPSC 610`, submission of and participation in all of the primary
-requirements is mandatory.
-In addition to an overall evaluation of each category, a student's work in
-`CMPSC 610` will be evaluated according to each of the following baseline
-requirements.
-Students who are enrolled in `DOUBL 610` are also required to write a course
-contract that describes the deliverables and the deadlines by which they will
-complete them for both `CMPSC 610` and the course for their additional major.
-Importantly, students in `DOUBL 610` must complete _all_ of the requirements for
-_both_ `CMPSC 610` _and_ the `610` course connected to their other major.
-Students who enroll in `DOUBL 610` should submit their course contract to both
-of their first readers and the `CMPSC 610` course coordinator.
+To pass `CMPSC 610`, submission of and participation in all the primary
+requirements is mandatory. In addition to an overall evaluation of each
+category, a student's work in `CMPSC 610` will be evaluated according to each of
+the following baseline requirements. Students who are enrolled in `DOUBL 610`
+are also required to write a course contract that describes the deliverables and
+the deadlines by which they will complete them for both `CMPSC 610` and the
+course for their additional major. Importantly, students in `DOUBL 610` must
+complete _all_ the requirements for _both_ `CMPSC 610` _and_ the `610` course
+connected to their other major. Students who enroll in `DOUBL 610` should submit
+their course contract to both of their first readers and the `CMPSC 610` course
+coordinator.
 
 ### Deliverable Descriptions
 
