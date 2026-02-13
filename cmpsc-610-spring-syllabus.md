@@ -75,7 +75,7 @@ not in the above list of course instructors.
   - Total time of presentation session: 15 minutes
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
-  of project presentations.
+  the project presentations.
 - The final version of the senior thesis must be submitted as a PDF in a tagged
   release on GitHub by the stated deadline. The final version of all course
   deliverables must meet all the baseline requirements outlined in the syllabus
