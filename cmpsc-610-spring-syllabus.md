@@ -124,6 +124,19 @@ not in the above list of course instructors.
 - Produce an original project that integrates multiple disciplines and provides
   critical engagement of impact of technology on various communities.
 
+#### SE 610
+
+- Develop a viable and appropriate independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+  of an incremental research notebook and a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both
+  informal discussions, peer reviews and formal presentations.
+- Produce and document a working, completed, engineered software artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical,
+  ethical, and social impact of the produced artifact.
+- Produce an original software project that is working, well-tested, and
+  deployed into production use.
+
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
