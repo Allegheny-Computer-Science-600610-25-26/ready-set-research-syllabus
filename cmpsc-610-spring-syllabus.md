@@ -59,7 +59,7 @@ not in the above list of course instructors.
   demonstration
 - **Week Fifteen**: One-third of class gives project presentation and
   demonstration
-- **Week Sixteen**: Finalize first all components of Senior Comprehensive
+- **Week Sixteen**: Finalize and submit all components of Senior Comprehensive
   Project
 - **Friday, May 1, 2026 by 11:59 PM**: Submit final version of Senior
   Comprehensive Project
