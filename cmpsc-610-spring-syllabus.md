@@ -11,16 +11,17 @@ faculty cannot promise that this work will be frustration- or challenge-free, we
 invite you to pursue it with great enthusiasm, vigor, and to -- above all --
 find joy in the process.
 
-## Course Description
+## Course Details
 
-Independent research in computer science.
-Students are invited to use their own departmentally approved laptop in this
-course; a limited number of laptops are available for use during class and lab
-sessions.
-Must be taken on the letter-grade basis.
-
-- Prerequisite: `CMPSC 580` and `CMPSC 610`
-- Distribution Requirements: `None`
+- **Description**: Continuation of independent research in computer science,
+  data science, software engineering, or informatics, culminating in the
+  development of and release of a computational artifact. Must be taken on the
+  letter-grade basis. Students are invited to use their own departmentally
+  approved laptop in this course; a limited number of laptops are available for
+  use during class and lab sessions.
+- **Credits**: 4
+- **Prerequisite**: `CMPSC 580` and `CMPSC/DS/INFM/SE 610`
+- **Distribution Requirements**: `None`
 
 ## Course Instructors
 
@@ -82,7 +83,22 @@ not in the above list of course instructors.
 
 ## Assessment Strategy
 
-### Learning Outcomes
+### Description and Learning Outcomes
+
+#### CMPSC 610
+
+Distribution Requirements: none.
+
+Learning Outcomes:
+
+```
+Develop a viable and appropriate independent and open-source research project.
+Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and a formal thesis document.
+Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
+Produce and document a working and completed computational artifact.
+Evaluate the produced artifact and reflect on theoretical, practical, ethical and social impact of the developed artifact.
+Produce an original project that includes integration of theory and practice or software and hardware.
+```
 
 ### Assessment Categories
 
