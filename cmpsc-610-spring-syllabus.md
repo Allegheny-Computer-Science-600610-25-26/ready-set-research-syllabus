@@ -83,22 +83,20 @@ not in the above list of course instructors.
 
 ## Assessment Strategy
 
-### Description and Learning Outcomes
+### Learning Outcomes
 
 #### CMPSC 610
 
-Distribution Requirements: none.
-
-Learning Outcomes:
-
-```
-Develop a viable and appropriate independent and open-source research project.
-Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and a formal thesis document.
-Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
-Produce and document a working and completed computational artifact.
-Evaluate the produced artifact and reflect on theoretical, practical, ethical and social impact of the developed artifact.
-Produce an original project that includes integration of theory and practice or software and hardware.
-```
+- Develop a viable and appropriate independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form
+  of an incremental research notebook and a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both
+  informal discussions, peer reviews, and formal presentations.
+- Produce and document a working and completed computational artifact.
+- Evaluate the produced artifact and reflect on theoretical, practical, ethical
+  and social impact of the developed artifact.
+- Produce an original project that includes integration of theory and practice
+  or software and hardware.
 
 ### Assessment Categories
 
