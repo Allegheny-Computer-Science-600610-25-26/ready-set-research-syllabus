@@ -1,30 +1,4 @@
-# DRAFT of CMPSC 610: Spring Semester of Two-Semester Senior Thesis Research
-
-## Outline
-
-  * [Introduction](#introduction)
-  * [Course Description](#course-description)
-  * [Course Instructors](#course-instructors)
-  * [Course Schedule](#course-schedule)
-  * [Assessment Strategy](#assessment-strategy)
-    + [Learning Outcomes](#learning-outcomes)
-    + [Assessment Categories](#assessment-categories)
-    + [Deliverable Descriptions](#deliverable-descriptions)
-    + [Institutional Review Board (IRB) Proposals](#institutional-review-board-irb-proposals)
-  * [Required Materials](#required-materials)
-    + [Course Textbooks](#course-textbooks)
-    + [Course Platforms](#course-platforms)
-    + [Course Repositories](#course-repositories)
-  * [Course Policies](#course-policies)
-    + [Course Attendance](#course-attendance)
-    + [Email Policy](#email-policy)
-    + [Syllabus Revision](#syllabus-revision)
-    + [Honor Code](#honor-code)
-    + [Classroom Ethics](#classroom-ethics)
-    + [Seeking Assistance](#seeking-assistance)
-      - [Course Assistance](#course-assistance)
-      - [Outside Assistance](#outside-assistance)
-    + [Special Needs](#special-needs)
+# CMPSC 610: Spring Semester of Two-Semester Senior Thesis Research
 
 ## Introduction
 
@@ -45,8 +19,8 @@ course; a limited number of laptops are available for use during class and lab
 sessions.
 Must be taken on the letter-grade basis.
 
-* Prerequisite: `CMPSC 580` and `CMPSC 600`
-* Distribution Requirements: `None`
+- Prerequisite: `CMPSC 580` and `CMPSC 600`
+- Distribution Requirements: `None`
 
 ## Course Instructors
 
@@ -114,42 +88,46 @@ not in the above list of course instructors.
 
 - **Week Eleven: March 27 - March 31**: Senior thesis defense for four students,
   with everyone in attendance.
-    - **Alden 101**, Faculty Moderator: GMK
-        - Caden Hinkley (First Reader: GMK, First Reader: TN)
-    - **Alden 109**, Faculty Moderator: DL
-        - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
-        - Anthony Grant Cook (First Reader: OBC, Second Reader: JJ)
+
+  - **Alden 101**, Faculty Moderator: GMK
+    - Caden Hinkley (First Reader: GMK, First Reader: TN)
+  - **Alden 109**, Faculty Moderator: DL
+    - Mai Nguyen Dac (First Reader: DL, Second Reader: OBC)
+    - Anthony Grant Cook (First Reader: OBC, Second Reader: JJ)
 
 - **Week Twelve: April 3 - April 7**: Senior thesis defense for five students,
   with everyone in attendance.
-    - **Alden 101**, Faculty Moderator: OBC
-        - Adam Shinomiya (First Reader: GMK, Second Reader: OBC)
-        - Peter Snipes (First Reader: DL, Second Reader: OBC)
-        - Adriana Solis (First Reader: OBC, First Reader: RO); rescheduled to 4:30 PM due to a schedule conflict reported by RO.
-    - **Alden 109**, Faculty Moderator: DL
-        - Kai'lani Woodard (First Reader: DL, First Reader: HB)
-        - Kobe Coleman (First Reader: JJ, Second Reader: GMK)
+
+  - **Alden 101**, Faculty Moderator: OBC
+    - Adam Shinomiya (First Reader: GMK, Second Reader: OBC)
+    - Peter Snipes (First Reader: DL, Second Reader: OBC)
+    - Adriana Solis (First Reader: OBC, First Reader: RO); rescheduled to 4:30 PM due to a schedule conflict reported by RO.
+  - **Alden 109**, Faculty Moderator: DL
+    - Kai'lani Woodard (First Reader: DL, First Reader: HB)
+    - Kobe Coleman (First Reader: JJ, Second Reader: GMK)
 
 - **Week Thirteen: April 10 - April 14**: Senior thesis defense for five students,
   with everyone in attendance.
-    - **Alden 101**, Faculty Moderator: OBC
-        - Lex Caldwell (First Reader: DL, Second Reader: OBC)
-        - Kyrie Doniz (First Reader: JJ, First Reader: TB)
-    - **Alden 109**, Faculty Moderator: GMK
-        - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
-        - William Connelly (First Reader: GMK, Second Reader: DL)
-        - Favour Ojo (First Reader: DL, Second Reader: GMK)
+
+  - **Alden 101**, Faculty Moderator: OBC
+    - Lex Caldwell (First Reader: DL, Second Reader: OBC)
+    - Kyrie Doniz (First Reader: JJ, First Reader: TB)
+  - **Alden 109**, Faculty Moderator: GMK
+    - Garrison Vanzin (First Reader: GMK, Second Reader: JJ)
+    - William Connelly (First Reader: GMK, Second Reader: DL)
+    - Favour Ojo (First Reader: DL, Second Reader: GMK)
 
 - **Week Fourteen: April 17 - April 21**: Senior thesis defense for six students,
   with everyone in attendance.
-    - **Alden 101**, Faculty Moderator: OBC
-        - Liam Black (First Reader: OBC, Second Reader: DL)
-        - Abigail Waryanka (First Reader: OBC, First Reader: BD)
-        - Andre Hance (First Reader: OBC, Second Reader: JJ)
-    - **Alden 109**, Faculty Moderator: GMK
-        - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
-        - Gary Chen (First Reader: JJ, Second Reader: GMK)
-        - Paige Downey (First Reader: JJ, Second Reader: DL)
+
+  - **Alden 101**, Faculty Moderator: OBC
+    - Liam Black (First Reader: OBC, Second Reader: DL)
+    - Abigail Waryanka (First Reader: OBC, First Reader: BD)
+    - Andre Hance (First Reader: OBC, Second Reader: JJ)
+  - **Alden 109**, Faculty Moderator: GMK
+    - Michael Ceccarelli (First Reader: GMK, Second Reader: JJ)
+    - Gary Chen (First Reader: JJ, Second Reader: GMK)
+    - Paige Downey (First Reader: JJ, Second Reader: DL)
 
 - **Week Fifteen: April 24 - April 28**: Revise all of the senior thesis
   chapters according to feedback from your thesis defense.
@@ -194,9 +172,9 @@ not in the above list of course instructors.
   attend on the assigned date for their presentation.
 - A senior thesis defense includes the following components with the stated
   time limits
-    - Senior thesis presentation: 10 minutes
-    - Question and answer session: 5 minutes
-    - Demonstration of computation artifact: 1 minute
+  - Senior thesis presentation: 10 minutes
+  - Question and answer session: 5 minutes
+  - Demonstration of computation artifact: 1 minute
 - Presenting students must strictly adhere to the stated time limits.
 - The readers for a senior comprehensive project will submit between three and
   six additional questions to the GitHub issue tracker in the repository for a
@@ -216,14 +194,14 @@ not in the above list of course instructors.
 
 By the end of this course, you will develop skills to:
 
-* Develop and complete an independent research project
-* Present and communicate complex ideas in a variety of media through both
+- Develop and complete an independent research project
+- Present and communicate complex ideas in a variety of media through both
   writing and oral presentations
-* Implement and experimentally evaluate a computational artifact
-* Describe and analyze the research process, its methods, and outcomes in the
+- Implement and experimentally evaluate a computational artifact
+- Describe and analyze the research process, its methods, and outcomes in the
   form of a formal written thesis document
-* Effectively accomplish and offer peer and meta-critical review
-* Use cutting-edge software (e.g., GitHub version control, pandoc, and LaTeX) to
+- Effectively accomplish and offer peer and meta-critical review
+- Use cutting-edge software (e.g., GitHub version control, pandoc, and LaTeX) to
   professionally format written research in computer science
 
 ### Assessment Categories
@@ -231,14 +209,14 @@ By the end of this course, you will develop skills to:
 For the purposes of evaluation, this course is separated into both "primary" and
 "secondary" requirements, as explained in the following table.
 
-|**Deliverable**                 |**Primary/secondary requirement**       |
+|**Deliverable** |**Primary/secondary requirement** |
 |:-------------------------------|:---------------------------------------|
-|Research Notebook               |Secondary                               |
-|Class Participation             |Secondary                               |
-|Process Commitment              |Secondary                               |
-|Thesis Presentation             |Primary                                 |
-|Thesis Chapters                 |Primary                                 |
-|Computational Artifact          |Primary                                 |
+|Research Notebook |Secondary |
+|Class Participation |Secondary |
+|Process Commitment |Secondary |
+|Thesis Presentation |Primary |
+|Thesis Chapters |Primary |
+|Computational Artifact |Primary |
 
 To pass `CMPSC 610`, submission of and participation in all of the primary
 requirements is mandatory.
@@ -256,6 +234,7 @@ of their first readers and the `CMPSC 610` course coordinator.
 ### Deliverable Descriptions
 
 - **Research Notebook**
+
   - [ ] The student created a Google Doc to record details about their meetings with the first reader and additional
     research notes
   - [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
@@ -264,11 +243,13 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] The contents of the research notebook give evidence of regular progress on the research project
 
 - **Class Participation**
+
   - [ ] The student regularly attended the weekly class sessions
   - [ ] The student actively participated in the weekly in-person class discussions
   - [ ] The student actively participated in the online discussions in Discord
 
 - **Process Commitment**
+
   - [ ] The student frequently completed activities on time according to the course schedule
   - [ ] The student asked and/or answered questions from their peers
   - [ ] The student actively participated in the peer review process
@@ -277,6 +258,7 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
 - **Thesis Presentation**
+
   - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
   - [ ] The student gave the thesis presentation on the assigned date
   - [ ] The thesis presentation featured effective and well-designed slides
@@ -291,6 +273,7 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] The student completed the tool demonstration within the one-minute time limit
 
 - **General Thesis Requirements**
+
   - [ ] The abstract provides a concise and compelling summary of the research
   - [ ] The thesis was submitted on time as a PDF in a tagged release on GitHub
   - [ ] The GitHub repository of the thesis contains evidence of many commits
@@ -311,10 +294,12 @@ of their first readers and the `CMPSC 610` course coordinator.
     subsections, and individual paragraphs
   - [ ] The thesis includes appropriate visual aids, which fall under the broad
     categories of:
+
   * `image`
   * `figure`
   * `table`
   * `graph`
+
   - [ ] The thesis contains a sufficient amount of content with a focus on
     scientific, technical, engineering, and/or mathematical content
   - [ ] The thesis highlights and explains the societal impacts and ethical
@@ -324,6 +309,7 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] There are no layout or formatting errors in the thesis
 
 - **Introduction Section Requirements**
+
   - [ ] The introduction section clearly describes the completed work
   - [ ] The introduction section motivates the completed work from a
     professional perspective focused on science, technology, engineering,
@@ -331,21 +317,25 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] The introduction section outlines the ethical implications of the thesis
 
 - **Related Work Section Requirements**
+
   - [ ] The related work section references and describes relevant literature
   - [ ] The related work section explains how relevant literature connects to the thesis
   - [ ] The related work section does not provide a "laundry list" of the related literature
   - [ ] The related work section situates the completed project in the broader scope
 
 - **Method Section Requirements**
+
   - [ ] The method section explains the process utilized in the completed study
   - [ ] The method section addresses as many of the following which are
     applicable (minimum `1`):
+
   * `description of algorithms`
   * `programming languages`
   * `libraries`
   * `platforms`
   * `software tools`
   * `hardware`
+
   - [ ] The method section references the GitHub repository that contains the
     implementation of the project's computational artifact(s)
   - [ ] The method section gives examples of the input and output of the
@@ -355,6 +345,7 @@ of their first readers and the `CMPSC 610` course coordinator.
     complete details about the input, output, behavior, and use of the project)
 
 - **Experimental Results Section Requirements**
+
   - [ ] The experimental results section includes a description of experiments
     such that a reader should be able to reproduce them
   - [ ] The evaluation subsection describes how the work is validated
@@ -363,11 +354,13 @@ of their first readers and the `CMPSC 610` course coordinator.
   - [ ] The experimental results section details threats to validity
 
 - **Discussion and Future Work Section Requirements**
+
   - [ ] The discussion and future work section discusses the impact of the completed research project
   - [ ] The discussion and future work section critically reflects on the completed research project
   - [ ] The conclusion outlines, with sufficient depth and detail, avenues for further and/or future work
 
 - **Computational Artifact**
+
   - [ ] The artifact's source code exists in a publicly available GitHub
     repository
   - [ ] The artifact's GitHub repository contains documentation on how to
@@ -413,8 +406,8 @@ both academic and professional development:
 
 ### Course Platforms
 
-* [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
-* [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
+- [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
+- [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
 
 This course relies heavily on the above GitHub organization and Discord server.
 Your work will be assigned and evaluated on and crucial communication
@@ -476,19 +469,19 @@ Given the eminently shareable and reproducible nature of code, the Department of
 Computer Science adds the following statement to the general college policy:
 
 > It is recognized that an important part of the learning process in any course,
-and particularly in computer science, derives from thoughtful discussions with
-teachers, student assistants, and fellow students.
-Such dialogue is encouraged.
-However, it is necessary to distinguish carefully between the student who
-discusses the principles underlying a problem with others, and the student who
-produces assignments that are identical to, or merely variations on, someone
-else’s work.
-It will therefore be understood that all assignments submitted to faculty of the
-Department of Computer Science are to be the original work of the student
-submitting the assignment, and should be signed in accordance with the
-provisions of the Honor Code.
-Appropriate action will be taken when assignments give evidence that they were
-derived from the work of others.
+> and particularly in computer science, derives from thoughtful discussions with
+> teachers, student assistants, and fellow students.
+> Such dialogue is encouraged.
+> However, it is necessary to distinguish carefully between the student who
+> discusses the principles underlying a problem with others, and the student who
+> produces assignments that are identical to, or merely variations on, someone
+> else’s work.
+> It will therefore be understood that all assignments submitted to faculty of the
+> Department of Computer Science are to be the original work of the student
+> submitting the assignment, and should be signed in accordance with the
+> provisions of the Honor Code.
+> Appropriate action will be taken when assignments give evidence that they were
+> derived from the work of others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
@@ -535,11 +528,11 @@ you access Allegheny College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
 
-* [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-* [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
-* [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-* [Student Life](https://sites.allegheny.edu/studentlife/)
-* [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
+- [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
+- [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Special Needs
 
