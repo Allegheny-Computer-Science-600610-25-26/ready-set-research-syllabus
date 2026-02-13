@@ -64,7 +64,7 @@ not in the above list of course instructors.
 - **Friday, May 1, 2026 by 11:59 PM**: Submit final version of Senior
   Comprehensive Project
 
-## Additional Details
+### Additional Details
 
 - A project presentation includes the following components with these time
   limits:
