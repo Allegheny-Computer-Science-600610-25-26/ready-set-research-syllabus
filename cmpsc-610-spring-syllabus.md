@@ -19,7 +19,7 @@ course; a limited number of laptops are available for use during class and lab
 sessions.
 Must be taken on the letter-grade basis.
 
-- Prerequisite: `CMPSC 580` and `CMPSC 600`
+- Prerequisite: `CMPSC 580` and `CMPSC 610`
 - Distribution Requirements: `None`
 
 ## Course Instructors
@@ -64,50 +64,70 @@ not in the above list of course instructors.
 - **Friday, May 1, 2026 by 11:59 PM**: Submit final version of Senior
   Comprehensive Project
 
-More details:
+## Additional Details
 
-- **Final Thesis Due: May 5**: Submit through a tagged release in GitHub the
-  final version of your undergraduate senior thesis.
-
-- **Faculty Report Final Grades to Course Coordinator: May 10**: Faculty submit
-  grades to the CMPSC 610 coordinator for all work that their students completed
-  in CMPSC 610.
-
-- **Faculty Meeting to Finalize the CMPSC 610 Grades: May 12**: Faculty meet to
-  collaboratively discuss and finalize grades all grades in CMPSC 610.
-
-- **Faculty Report Final Grades in CMPSC 610 to Registrar: May 15 at 9:00 AM**:
-  Faculty submit the final grades for the CMPSC 610 course to the registrar.
+- A project presentation includes the following components with these time
+  limits:
+  - Project presentation: 10 minutes
+  - Demonstration of computation artifact: 3 minutes
+  - Question and answer session: 2 minutes
+  - Total time of presentation session: 15 minutes
+- Presenting students must strictly adhere to the stated time limits.
+- All students are required to attend and participate as audience members in all
+  of project presentations.
+- The final version of the senior thesis must be submitted as a PDF in a tagged
+  release on GitHub by the stated deadline. This document must meet all the
+  baseline requirements outlined in the syllabus for the CMPSC 610 course.
 
 ## Assessment Strategy
 
 ### Learning Outcomes
 
-By the end of this course, you will develop skills to:
-
-- Develop and complete an independent research project
-- Present and communicate complex ideas in a variety of media through both
-  writing and oral presentations
-- Implement and experimentally evaluate a computational artifact
-- Describe and analyze the research process, its methods, and outcomes in the
-  form of a formal written thesis document
-- Effectively accomplish and offer peer and meta-critical review
-- Use cutting-edge software (e.g., GitHub version control, pandoc, and LaTeX) to
-  professionally format written research in computer science
-
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
-"secondary" requirements, as explained in the following table.
+"secondary" requirements, as explained in the following table. This table
+includes the name of the deliverable, its categorization as either a primary or
+a secondary requirement, and the assigned percentage of the overall course
+grade. All of these percentages are approximate and, if the need to do so
+presents itself, the course coordinator may, for instance, change the assigned
+percentages during the academic semester.
 
-|**Deliverable** |**Primary/secondary requirement** |
-|:-------------------------------|:---------------------------------------|
-|Research Notebook |Secondary |
-|Class Participation |Secondary |
-|Process Commitment |Secondary |
-|Thesis Presentation |Primary |
-|Thesis Chapters |Primary |
-|Computational Artifact |Primary |
+|**Deliverable** |**Categorization** |**Percentage** |
+|:----------------------|:------------------|:--------------|
+|Research Notebook |Secondary |5% |
+|Class Participation |Secondary |7.5% |
+|Adviser Meetings |Secondary |7.5% |
+|Computational Artifact |Primary |15% |
+|Project Presentation |Primary |15% |
+|Project Demonstration |Primary |15% |
+|Final Thesis Chapters |Primary |35% |
+
+To pass a `610`-level course in Computer and Information Science, submission of
+and participation in all the primary requirements is mandatory. In addition to
+an overall evaluation of each category, a student's work in the `610`-level
+Computer and Information Science course will be evaluated according to each of
+the following baseline requirements. Please note that these requirements
+articulate a baseline for the `610`-level course in Computer and Information
+Science and are provided as a list of minimum requirements that all specific
+research deliverables must meet to be assessed as complete. Please note that the
+only baseline requirements in the following `General Thesis Requirements`
+section that will contribute to a student's grade in this course are those that
+reasonably pertain the deliverables in the `610`-level course. Before the
+submission of a final grade, a student's assessment scores for these categories
+will be initially assigned by their first reader, reviewed by their second
+reader, approved by all faculty members who are instructors for a `610`-level
+course in Computer and Information Science at Allegheny College.
+
+Students who are enrolled in `DOUBL 610` are also required to write a course
+contract that describes the deliverables and the deadlines by which they will
+complete them for both `610`-level course in Computer and Information Science
+and the course for their additional major. Importantly, students in `DOUBL 610`
+must complete _all_ the requirements for _both_ the `610`-level course in
+Computer and Information Science _and_ the `610` course connected to their other
+major. Students who enroll in `DOUBL 610` should submit their course contract to
+both of their first readers and the coordinator of the `610`-level course in
+Computer and Information Science.
 
 To pass `CMPSC 610`, submission of and participation in all of the primary
 requirements is mandatory.
@@ -185,12 +205,10 @@ of their first readers and the `CMPSC 610` course coordinator.
     subsections, and individual paragraphs
   - [ ] The thesis includes appropriate visual aids, which fall under the broad
     categories of:
-
-  * `image`
-  * `figure`
-  * `table`
-  * `graph`
-
+  - `image`
+  - `figure`
+  - `table`
+  - `graph`
   - [ ] The thesis contains a sufficient amount of content with a focus on
     scientific, technical, engineering, and/or mathematical content
   - [ ] The thesis highlights and explains the societal impacts and ethical
@@ -210,23 +228,24 @@ of their first readers and the `CMPSC 610` course coordinator.
 - **Related Work Section Requirements**
 
   - [ ] The related work section references and describes relevant literature
-  - [ ] The related work section explains how relevant literature connects to the thesis
-  - [ ] The related work section does not provide a "laundry list" of the related literature
-  - [ ] The related work section situates the completed project in the broader scope
+  - [ ] The related work section explains how relevant literature connects to
+    the thesis
+  - [ ] The related work section does not provide a "laundry list" of the
+    related literature
+  - [ ] The related work section situates the completed project in the broader
+    scope
 
 - **Method Section Requirements**
 
   - [ ] The method section explains the process utilized in the completed study
   - [ ] The method section addresses as many of the following which are
     applicable (minimum `1`):
-
-  * `description of algorithms`
-  * `programming languages`
-  * `libraries`
-  * `platforms`
-  * `software tools`
-  * `hardware`
-
+  - `description of algorithms`
+  - `programming languages`
+  - `libraries`
+  - `platforms`
+  - `software tools`
+  - `hardware`
   - [ ] The method section references the GitHub repository that contains the
     implementation of the project's computational artifact(s)
   - [ ] The method section gives examples of the input and output of the
@@ -246,9 +265,12 @@ of their first readers and the `CMPSC 610` course coordinator.
 
 - **Discussion and Future Work Section Requirements**
 
-  - [ ] The discussion and future work section discusses the impact of the completed research project
-  - [ ] The discussion and future work section critically reflects on the completed research project
-  - [ ] The conclusion outlines, with sufficient depth and detail, avenues for further and/or future work
+  - [ ] The discussion and future work section discusses the impact of the
+    completed research project
+  - [ ] The discussion and future work section critically reflects on the
+    completed research project
+  - [ ] The conclusion outlines, with sufficient depth and detail, avenues for
+    further and/or future work
 
 - **Computational Artifact**
 
