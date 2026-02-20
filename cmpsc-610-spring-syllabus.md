@@ -181,9 +181,12 @@ major. Students who enroll in `DOUBL 610` should submit their course contract to
 both of their first readers and the coordinator of the `610`-level course in
 Computer and Information Science.
 
-**Important Reminder**: Please review the syllabus for the `600`-level course to
-see the listing of the baseline requirements for all components of the senior
-comprehensive project.
+**Important Reminders**: Please review the syllabus for the `600`-level course
+to see the listing of the baseline requirements for all components of the senior
+comprehensive project. Note that the GitHub repositories for the final version
+of your software tool, any affiliated data sets and data analysis routines, and
+your thesis report and research notebook must be finalized and linked to in the
+[metadata file](/metadata.md) file inside of this repository.
 
 ### Institutional Review Board (IRB) Proposals
 
