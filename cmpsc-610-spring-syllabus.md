@@ -188,6 +188,14 @@ version of your computational artifact, any data sets and data analysis
 routines, and your senior thesis and research notebook must be finalized and
 linked to in the [metadata file](/metadata.md) file inside of this repository.
 
+**Research Notebook**: As a vehicle for documenting and reflecting on your work
+in the `610`-level course, the completed version of your online research
+notebook should contain at least three new entries focusing on (a) the iterative
+problem-solving and decision-making process you took to develop your
+computational artifact, (b) a critical reflection on the results from your
+empirical study, and (c) a summary and analysis of the regular progress that you
+made on your project throughout both the `600`-level and `610`-level courses.
+
 ### Institutional Review Board (IRB) Proposals
 
 Should a project require Institutional Review Board (IRB) approval for use of
