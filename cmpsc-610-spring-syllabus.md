@@ -64,7 +64,7 @@ not in the above list of course instructors.
 - **Friday, May 1, 2026 by 11:59 PM**: Submit final version of Senior
   Comprehensive Project
 
-### Additional Details
+### Important Details
 
 - A project presentation includes the following components with these time
   limits:
@@ -76,9 +76,9 @@ not in the above list of course instructors.
 - All students are required to attend and participate as audience members in all
   the project presentations.
 - The final version of the senior thesis must be submitted as a PDF in a tagged
-  release on GitHub by the stated deadline. The final version of all course
-  deliverables must meet all the baseline requirements outlined in the syllabus
-  for the CMPSC 600 course.
+  release on GitHub, at the level of a `2.0.0` or greater semantic version number,
+  by the stated deadline. The final version of all course deliverables must meet
+  all the baseline requirements outlined in the syllabus for the CMPSC 600 course.
 
 ## Assessment Strategy
 
