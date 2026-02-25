@@ -18,9 +18,9 @@ find joy in the process.
 Independent research in computer science, data science, informatics, or software
 engineering, as further described in detail in the Learning Objectives section.
 
-* Prerequisite: `CMPSC 580` or suitable equivalent for certain `600`-level
-courses
-* Distribution Requirements: `None`
+- Prerequisite: `CMPSC 580` or suitable equivalent for certain `600`-level
+  courses
+- Distribution Requirements: `None`
 
 ## Course Instructors
 
@@ -51,17 +51,17 @@ use during class and lab sessions.
 #### Learning Objectives
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research notebook and two chapters of a formal thesis
+  document.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews and formal presentations.
+  informal discussions, peer reviews and formal presentations.
 - Produce and document a working prototype of computational artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-and social impact of the proposed artifact.
+  and social impact of the proposed artifact.
 - Produce an original project that includes integration of theory and practice
-or software and hardware.
+  or software and hardware.
 
 ### Data Science 600
 
@@ -76,17 +76,17 @@ use during class and lab sessions.
 #### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research notebook and two chapters of a formal thesis
+  document.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews and formal presentations.
+  informal discussions, peer reviews and formal presentations.
 - Produce and document a working prototype of a data-oriented artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-and social impact of the proposed artifact.
+  and social impact of the proposed artifact.
 - Produce an original project that uses a large, complex data set to create a
-web dashboard or extend an existing data science framework via analysis.
+  web dashboard or extend an existing data science framework via analysis.
 
 ### Informatics 600
 
@@ -101,17 +101,17 @@ use during class and lab sessions.
 #### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research notebook and two chapters of a formal thesis
+  document.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews and formal presentations.
+  informal discussions, peer reviews and formal presentations.
 - Produce and document a working prototype of an information-informed artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-and social impact of the proposed artifact.
+  and social impact of the proposed artifact.
 - Produce an original project that integrates multiple disciplines and provides
-critical engagement of impact of technology on various communities.
+  critical engagement of impact of technology on various communities.
 
 ### Software Engineering 600
 
@@ -126,17 +126,17 @@ use during class and lab sessions.
 #### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research notebook and two chapters of a formal thesis
+  document.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews, and formal presentations.
+  informal discussions, peer reviews, and formal presentations.
 - Produce and document a working prototype of an engineered software artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical,
-ethical, and social impact of the produced artifact.
+  ethical, and social impact of the produced artifact.
 - Produce an original software project that is working, well-tested, and
-deployed into production use.
+  deployed into production use.
 
 ## Assessment Strategy
 
@@ -150,17 +150,15 @@ grade. All of these percentages are approximate and, if the need to do so
 presents itself, the course coordinator may, for instance, change the assigned
 percentages during the academic semester.
 
-
-|**Deliverable**        |**Categorization** |**Percentage** |
+|**Deliverable** |**Categorization** |**Percentage** |
 |:----------------------|:------------------|:--------------|
-|Research Notebook       |Secondary          |5%             |
-|Class Participation    |Secondary          |7.5%             |
-|Adviser Meetings       |Secondary          |7.5%             |
-|Computational Artifact |Primary            |15%            |
-|Project Presentation   |Primary            |15%            |
-|Project Demonstration  |Primary            |15%            |
-|Two Thesis Chapters    |Primary            |35%            |
-
+|Research Notebook |Secondary |5% |
+|Class Participation |Secondary |7.5% |
+|Adviser Meetings |Secondary |7.5% |
+|Computational Artifact |Primary |15% |
+|Project Presentation |Primary |15% |
+|Project Demonstration |Primary |15% |
+|Two Thesis Chapters |Primary |35% |
 
 To pass a `600`-level course in Computer and Information Science, submission of
 and participation in all the primary requirements is mandatory. In addition to
@@ -207,70 +205,70 @@ Computer and Information Science.
 - [ ] The student frequently completed activities according to an agreed schedule
 - [ ] The student demonstrated growth in their knowledge of their research topic
 - [ ] The student demonstrated growth in their ability to conduct research in
-computer and information science
+  computer and information science
 - [ ] The student suggested ways in which to improve and/or gave feedback on the
-course's research process
+  course's research process
 
 #### Research Notebook
 
 - [ ] The student created a research notebook to record details about their
-meetings with the first reader and additional research notes
+  meetings with the first reader and additional research notes
 - [ ] The research notebook contains evidence of dated entries for
-research meetings and additional notes
+  research meetings and additional notes
 - [ ] The contents of the research notebook have a clear connection to the
-research project
+  research project
 - [ ] The contents of the research notebook give evidence of regular progress on
-the research project
+  the research project
 - [ ] The research notebook demonstrates critical thinking and reflection on
-research challenges
+  research challenges
 - [ ] The research notebook includes references to relevant literature and
-resources in the chosen research area
+  resources in the chosen research area
 - [ ] The research notebook shows evidence of iterative problem-solving and
-decision-making in the research process
+  decision-making in the research process
 
 #### Project Presentation
 
 - [ ] The student gave the project presentation on the assigned date
 - [ ] The project presentation featured effective and well-designed slides
 - [ ] The project presentation has an accessible overview of the proposed
-project
+  project
 - [ ] The project presentation gave a clear project motivation
 - [ ] The student effectively answered the questions from the audience
 - [ ] The student completed the project presentation within the stated time
-limit
+  limit
 - [ ] The student completed the question and answer session within the stated
-time limit
+  time limit
 - [ ] The presentation demonstrated clear understanding of the research problem
-and solution
+  and solution
 - [ ] The presentation included appropriate technical depth for the audience
 - [ ] The presentation showed evidence of thorough preparation and practice
 - [ ] The presentation effectively communicated the broader impact and
-significance of the work
+  significance of the work
 
 #### Project Demonstration
 
 - [ ] The student completed the tool demonstration within the stated time limit
 - [ ] The demonstration clearly shows the computational artifact in action with
-realistic input/output examples
+  realistic input/output examples
 - [ ] The student effectively explained the core functionality and purpose of
-their tool
+  their tool
 - [ ] The demonstration included multiple key features or use cases of the
-computational artifact
+  computational artifact
 - [ ] The student handled technical difficulties or unexpected issues in a
-professional manner
+  professional manner
 - [ ] The demonstrated tool aligns with the research objectives outlined in the
-project presentation
+  project presentation
 - [ ] The student showed evidence of testing or validation during the
-demonstration
+  demonstration
 - [ ] The demonstration was well-organized and followed a logical sequence
 - [ ] The computational artifact demonstrated represents substantial technical
-achievement
+  achievement
 - [ ] The demonstration showed the computational artifact's practical
-applicability and potential impact
+  applicability and potential impact
 - [ ] The student clearly articulated any limitations or future improvements
-needed
+  needed
 - [ ] The project demonstration showed the overall feasibility of the proposed
-research project
+  research project
 
 #### General Thesis Requirements
 
@@ -295,10 +293,10 @@ research project
   subsections, and individual paragraphs
 - [ ] The thesis includes appropriate visual aids, which fall under the broad
   categories of (minimum `5`):
-    * `image`
-    * `figure`
-    * `table`
-    * `graph`
+  - `image`
+  - `figure`
+  - `table`
+  - `graph`
 - [ ] The thesis contains a sufficient amount of content with a focus on
   scientific, technical, engineering, and/or mathematical content
 - [ ] The thesis highlights and explains the societal impacts and ethical
@@ -310,51 +308,51 @@ research project
 
 - [ ] The introduction section clearly describes the completed work
 - [ ] The introduction section motivates the completed work from a professional
-perspective focused on science, technology, engineering, mathematics, broader
-impacts, and societal implications
+  perspective focused on science, technology, engineering, mathematics, broader
+  impacts, and societal implications
 - [ ] The introduction section outlines the ethical implications of the thesis
 - [ ] The introduction outlines the structure of the senior comprehensive
-project
+  project
 - [ ] The introduction section articulates the overall contributions of the
-senior comprehensive project
+  senior comprehensive project
 
 #### Related Work Section Requirements
 
 - [ ] The related work section references and describes relevant literature
 - [ ] The related work section explains how relevant literature connects to the
-thesis
+  thesis
 - [ ] The related work section does not provide a "laundry list" of the related
-literature
+  literature
 - [ ] The related work section situates the completed project in the broader
-scope
+  scope
 - [ ] The related work section furnishes content that supports the other
-chapters of the thesis
+  chapters of the thesis
 
 #### Method Section Requirements
 
 - [ ] The method section explains the process utilized in the completed study
 - [ ] The method section addresses as many of the following that are applicable
-(minimum `3`):
-    * `description of algorithms`
-    * `programming languages`
-    * `libraries`
-    * `platforms`
-    * `frameworks`
-    * `software`
-    * `hardware`
-    * `data`
-    * `theories`
+  (minimum `3`):
+  - `description of algorithms`
+  - `programming languages`
+  - `libraries`
+  - `platforms`
+  - `frameworks`
+  - `software`
+  - `hardware`
+  - `data`
+  - `theories`
 - [ ] The method section explains the design of the experiments that will
-evaluate the computational artifact
+  evaluate the computational artifact
 - [ ] The method section explains how to calculate and/or collect the evaluation
-metrics
+  metrics
 - [ ] The method section references the GitHub repository that contains the
-implementation of the project's computational artifact(s)
+  implementation of the project's computational artifact(s)
 - [ ] The method section gives examples of the input and output of the project's
-computational artifact(s) and, when appropriate, explains how to run the
-computational artifact (note that the `README.md` file of the GitHub repository
-that contains the computational artifact(s) should furnish complete details
-about the input, output, behavior, and use of the project)
+  computational artifact(s) and, when appropriate, explains how to run the
+  computational artifact (note that the `README.md` file of the GitHub repository
+  that contains the computational artifact(s) should furnish complete details
+  about the input, output, behavior, and use of the project)
 
 #### Experimental Results Section Requirements
 
@@ -368,35 +366,35 @@ about the input, output, behavior, and use of the project)
 #### Discussion and Future Work Section Requirements
 
 - [ ] The discussion and future work section discusses the impact of the
-completed research project
+  completed research project
 - [ ] The discussion and future work section critically reflects on the
-completed research project
+  completed research project
 - [ ] The conclusion outlines, with sufficient depth and detail, avenues for
-further and/or future work
+  further and/or future work
 
 #### Computational Artifact
 
 - [ ] The artifact's source code exists in a publicly available GitHub
-repository
+  repository
 - [ ] The artifact's GitHub repository contains documentation on how to install
-and use it
+  and use it
 - [ ] It is possible for a `600`-level researcher who is not the creator of the
-GitHub repository to install and use the computational artifact
+  GitHub repository to install and use the computational artifact
 - [ ] The artifact's GitHub repository contains sufficient evidence of best
-practices for software development (e.g., test suites, linters, and the setup of
-continuous integration in GitHub Actions)
+  practices for software development (e.g., test suites, linters, and the setup of
+  continuous integration in GitHub Actions)
 - [ ] The GitHub repository features deliverables that have a clear connection
-to the research project
+  to the research project
 - [ ] The GitHub repository contains evidence of regular commits through the
-Fall semester
+  Fall semester
 - [ ] The computational artifact demonstrates significant technical complexity
-appropriate for `600`-level work
+  appropriate for `600`-level work
 - [ ] The artifact includes comprehensive error handling and input validation
 - [ ] The repository contains clear examples and usage demonstrations
 - [ ] The artifact's code is well-structured, readable, and follows appropriate
-design patterns
+  design patterns
 - [ ] The computational artifact successfully addresses the research problem as
-outlined in the project's presentations and chapters
+  outlined in the project's presentations and chapters
 
 ### Institutional Review Board (IRB) Proposals
 
@@ -413,47 +411,47 @@ approval.
 ### Additional Details
 
 - A project presentation includes the following components with these time
-limits:
-    - Project presentation:  10 minutes
-    - Demonstration of computation artifact: 3 minutes
-    - Question and answer session: 2 minutes
-    - Total time of presentation session: 15 minutes
+  limits:
+  - Project presentation: 10 minutes
+  - Demonstration of computational artifact: 3 minutes
+  - Question and answer session: 2 minutes
+  - Total time of presentation session: 15 minutes
 - Presenting students must strictly adhere to the stated time limits.
 - All students are required to attend and participate as audience members in all
-of project presentations.
+  of project presentations.
 - Students must submit the first two chapters of their senior thesis document.
-The thesis chapters are only required to adhere to those requirements that might
-be reasonably completed during a `600`-level course in Computer and Information
-Science. For instance, students are not required to have a senior thesis
-document that meets the overall word count requirement until they have completed
-a `610`-level course in Computer and Information Science. Students who have
-questions about the assessment requirements for this `600`-level comprehensive
-project are encouraged to contact their first reader and the course coordinator.
+  The thesis chapters are only required to adhere to those requirements that might
+  be reasonably completed during a `600`-level course in Computer and Information
+  Science. For instance, students are not required to have a senior thesis
+  document that meets the overall word count requirement until they have completed
+  a `610`-level course in Computer and Information Science. Students who have
+  questions about the assessment requirements for this `600`-level comprehensive
+  project are encouraged to contact their first reader and the course coordinator.
 
 ### Course Schedule
 
 - **Week One**: Informal class session due to start of semester during a partial
-week
+  week
 - **Week Two**: First formal class session and overview of course goals
 - **Week Three**: Review of course goals and meeting with both readers
 - **Week Four**: Review syllabus, work on presentation slide deck and prototype
 - **Week Five**: Refine presentation slide deck and computational prototype
 - **Week Six**: Finalize presentation slide deck and prototype for demonstration
 - **Week Seven**: No class due to Fall Break, gain access to thesis chapters
-repository
+  repository
 - **Week Eight**: One-third of class gives project presentation and
-demonstration
+  demonstration
 - **Week Nine**: One-third of class gives project presentation and demonstration
 - **Week Ten**: One-third of class gives project presentation and demonstration
 - **Week Eleven**: Write and revise Chapter One of Senior Comprehensive Project
 - **Week Twelve**: Write and revise Chapter One of Senior Comprehensive Project
 - **Week Thirteen**: Write and revise Chapter Two of Senior Comprehensive
-Project
+  Project
 - **Week Fourteen**: No class due to Thanksgiving Break
 - **Week Fifteen**: Write and revise Chapter Two of Senior Comprehensive Project
 - **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
 - **December 11, 2025 by 11:59 PM**: Submit final version of Chapter One and
-Chapter Two
+  Chapter Two
 
 ## Required Materials
 
@@ -463,14 +461,12 @@ There are no required textbooks for this course.
 However, the faculty _highly recommend_ investing in the following texts for
 both academic and professional development:
 
-
 |Title |Author |ISBN/ASIN |
 |:-----|:------|:----|
 |_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
 |_BUGS in Writing: A Guide to Debugging your Prose_ |Lyn Dupre |978-0201379211 |
 |_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
 |_Published_|Thomas Deetjen|B085MQN3Q8 |
-
 
 ### Course Repositories
 
@@ -531,17 +527,17 @@ and Information Science adds the following statement to the general college
 policy:
 
 > It is recognized that an important part of the learning process in any course,
-and particularly in computer science, derives from thoughtful discussions with
-teachers, student assistants, and fellow students. Such dialogue is encouraged.
-However, it is necessary to distinguish carefully between the student who
-discusses the principles underlying a problem with others, and the student who
-produces assignments that are identical to, or merely variations on, someone
-else’s work. It will therefore be understood that all assignments submitted to
-faculty of the Department of Computer and Information Science are to be the
-original work of the student submitting the assignment, and should be signed in
-accordance with the provisions of the Honor Code. Appropriate action will be
-taken when assignments give evidence that they were derived from the work of
-others.
+> and particularly in computer science, derives from thoughtful discussions with
+> teachers, student assistants, and fellow students. Such dialogue is encouraged.
+> However, it is necessary to distinguish carefully between the student who
+> discusses the principles underlying a problem with others, and the student who
+> produces assignments that are identical to, or merely variations on, someone
+> else’s work. It will therefore be understood that all assignments submitted to
+> faculty of the Department of Computer and Information Science are to be the
+> original work of the student submitting the assignment, and should be signed in
+> accordance with the provisions of the Honor Code. Appropriate action will be
+> taken when assignments give evidence that they were derived from the work of
+> others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
@@ -589,14 +585,14 @@ and will use them. We do so considering the following position:
 
 Be prepared to support their use in ways including but not limited to:
 
-* citing instances where code has been generated and clearly defining the tools
-that generated them
-* providing descriptive commentary (including prompts) around generated code
-either in in-line comments or assignment documentation
-* considering improvements to the generated code, documenting specifics about
-your modifications and reasoning behind them
-* revising the generated code or documentation so as to ensure that it is more
-suitable for the purposes of your assignment
+- citing instances where code has been generated and clearly defining the tools
+  that generated them
+- providing descriptive commentary (including prompts) around generated code
+  either in in-line comments or assignment documentation
+- considering improvements to the generated code, documenting specifics about
+  your modifications and reasoning behind them
+- revising the generated code or documentation so as to ensure that it is more
+  suitable for the purposes of your assignment
 
 Faculty do not intend these requirements as a “gotcha”; we assume the best of
 your effort. These guidelines follow industry best practices and prepare you for
@@ -604,7 +600,7 @@ integrating current and future generations of these AI technologies into your
 set of computational skills.
 
 <sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
-2024. Plagiarism in the Age of Generative AI: Cheating Method Change and
+2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
 Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
 Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery,
 New York, NY, USA, 75–85.
@@ -635,9 +631,9 @@ College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
 
-* [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-* [Allegheny College Health and Wellbeing](https://allegheny.edu/student-life/health-and-wellbeing/)
-* [Winslow Health Center](https://allegheny.edu/student-life/health-and-wellbeing/health-center/)
+- [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Health and Wellbeing](https://allegheny.edu/student-life/health-and-wellbeing/)
+- [Winslow Health Center](https://allegheny.edu/student-life/health-and-wellbeing/health-center/)
 
 ### Special Needs
 
