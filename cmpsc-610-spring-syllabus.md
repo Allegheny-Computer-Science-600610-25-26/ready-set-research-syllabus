@@ -181,12 +181,13 @@ major. Students who enroll in `DOUBL 610` should submit their course contract to
 both of their first readers and the coordinator of the `610`-level course in
 Computer and Information Science.
 
-**Important Reminders**: Please review the syllabus for the `600`-level course
+**GitHub Repositories**: Please review the syllabus for the `600`-level course
 to see the listing of the baseline requirements for all components of the senior
-comprehensive project. Note that the GitHub repositories containing the final
-version of your computational artifact, any data sets and data analysis
-routines, and your senior thesis and research notebook must be finalized and
-linked to in the [metadata file](/metadata.md) file inside of this repository.
+comprehensive project. Importantly, please note that the GitHub repositories
+containing the final version of your computational artifact, any data sets and
+data analysis routines, and your senior thesis and research notebook must be
+finalized and linked to in the [metadata file](/metadata.md) file inside of
+this repository.
 
 **Research Notebook**: As a vehicle for documenting and reflecting on your work
 in the `610`-level course, the completed version of your online research
