@@ -156,21 +156,23 @@ percentages during the academic semester.
 |Project Demonstration |Primary |15% |
 |Final Thesis Chapters |Primary |35% |
 
-To pass a `610`-level course in Computer and Information Science, submission of
-and participation in all the primary requirements is mandatory. In addition to
-an overall evaluation of each category, a student's work in the `610`-level
-Computer and Information Science course will be evaluated according to the
-baseline requirements outline in the syllabus for the 600-level course.
+**Requirements Summary**: To pass a `610`-level course in Computer and
+Information Science, submission of and participation in all the primary
+requirements is mandatory. In addition to an overall evaluation of each
+category, a student's work in the `610`-level Computer and Information Science
+course will be evaluated according to the baseline requirements outline in the
+syllabus for the 600-level course.
 
-Please note that these requirements articulate a baseline for the `610`-level
-course in Computer and Information Science and are provided as a list of minimum
-requirements that all specific research deliverables must meet to be assessed as
-complete. Before the submission of a final grade, a student's assessment scores
-for these categories will be initially assigned by their first reader, reviewed
-by their second reader, approved by all faculty members who are instructors for
-a `610`-level course in Computer and Information Science at Allegheny College.
+**Assigning Assessments**: Please note that these requirements articulate a
+baseline for the `610`-level course in Computer and Information Science and are
+provided as a list of minimum requirements that all specific research
+deliverables must meet to be assessed as complete. Before the submission of a
+final grade, a student's assessment scores for these categories will be
+initially assigned by their first reader, reviewed by their second reader,
+approved by all faculty members who are instructors for a `610`-level course in
+Computer and Information Science at Allegheny College.
 
-Students who are enrolled in `DOUBL 610` are also required to write a course
+**Double Majors**: Students who are enrolled in `DOUBL 610` are also required to
 contract that describes the deliverables and the deadlines by which they will
 complete them for both `610`-level course in Computer and Information Science
 and the course for their additional major. Importantly, students in `DOUBL 610`
@@ -186,15 +188,20 @@ comprehensive project. Importantly, please note that the GitHub repositories
 containing the final version of your computational artifact, any data sets and
 data analysis routines, and your senior thesis and research notebook must be
 finalized and linked to in the [metadata file](/metadata.md) file inside of
-this repository.
+this repository. Importantly, all GitHub repositories created as a part of the
+senior comprehensive project should be linked to through the [metadata
+file](/metadata.md) file.
 
 **Research Notebook**: As a vehicle for documenting and reflecting on your work
 in the `610`-level course, the completed version of your online research
-notebook should contain at least three new entries focusing on (a) the iterative
-problem-solving and decision-making process you took to develop your
+notebook should contain all entries from the `600`-level course and at least
+three new entries focusing on (a) the iterative problem-solving and
+decision-making process you followed to design, develop, and assess your
 computational artifact, (b) a critical reflection on the results from your
-empirical study, and (c) a summary and analysis of the regular progress that you
-made on your project throughout both the `600`-level and `610`-level courses.
+project's empirical study, and (c) a detailed analysis of both the setbacks you
+encountered and how you handled them and the consistent progress that you made
+on your senior comprehensive project throughout both the `600`-level and
+`610`-level courses.
 
 ### Institutional Review Board (IRB) Proposals
 
@@ -237,11 +244,12 @@ your content with versions that adhere to the course's semantic versioning
 standard. Students are invited to use the course's GitHub organization to create
 and share their own GitHub repositories for the source code, documentation, and
 data sets connected with their senior comprehensive project. Importantly, each
-of these GitHub repositories created by students must adhere to the syllabus'
-requirements for the deliverable in that repository.
+of these GitHub repositories created by students must adhere to all the
+requirements in both the `600`-level and the `610`-level syllabus.
 
 **Course instructors will only grade and provide feedback on projects that are
-stored in and properly released through GitHub.**
+stored in and properly released through GitHub repositories referenced in the
+[metadata](/metadata.md) file.**
 
 ## Course Policies
 
