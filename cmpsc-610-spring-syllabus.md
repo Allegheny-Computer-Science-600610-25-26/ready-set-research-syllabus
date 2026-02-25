@@ -52,10 +52,9 @@ not in the above list of course instructors.
 - **Week Nine**: Write and revise content in chapter four
 - **Week Ten**: Write and revise content in chapter five
 - **Week Eleven**: Write and revise content in chapter five
-- **Week Twelve**: Complete final revisions to senior thesis and computational
-  artifact
-- **Week Thirteen**: One-third of class gives project presentation and
+- **Week Twelve**: One-third of class gives project presentation and
   demonstration
+- **Week Thirteen**: No class due to Recharge Recess
 - **Week Fourteen**: One-third of class gives project presentation and
   demonstration
 - **Week Fifteen**: One-third of class gives project presentation and
