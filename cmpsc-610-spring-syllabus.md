@@ -15,7 +15,7 @@ we invite you to pursue it with great enthusiasm, vigor, and to --- above all
 
 - **Description**: Continuation of independent research in computer science,
   data science, software engineering, or informatics, culminating in the
-  development of and release of a computational artifact. Must be taken on the
+  development and release of a computational artifact. Must be taken on a
   letter-grade basis. Students are invited to use their own departmentally
   approved laptop in this course; a limited number of laptops are available for
   use during class and lab sessions.
@@ -28,7 +28,7 @@ we invite you to pursue it with great enthusiasm, vigor, and to --- above all
 - [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
 - [Janyl Jumadinova](https://janyljumadinova.com/)
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
-- [Douglas Luman](https://www.douglasjluman.com/)
+- [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
 The instructor with the `**` symbol after their name is the course coordinator
 who is responsible for orchestrating all aspects of the `CMPSC 610` course.
@@ -69,7 +69,7 @@ not in the above list of course instructors.
 - A project presentation includes the following components with these time
   limits:
   - Project presentation: 10 minutes
-  - Demonstration of computation artifact: 3 minutes
+  - Demonstration of computational artifact: 3 minutes
   - Question and answer session: 2 minutes
   - Total time of presentation session: 15 minutes
 - Presenting students must strictly adhere to the stated time limits.
@@ -183,14 +183,11 @@ both of their first readers and the coordinator of the `610`-level course in
 Computer and Information Science.
 
 **GitHub Repositories**: Please review the syllabus for the `600`-level course
-to see the listing of the baseline requirements for all components of the senior
-comprehensive project. Importantly, please note that the GitHub repositories
-containing the final version of your computational artifact, any data sets and
-data analysis routines, and your senior thesis and research notebook must be
-finalized and linked to in the [metadata file](/metadata.md) file inside of
-this repository. Importantly, all GitHub repositories created as a part of the
-senior comprehensive project should be linked to through the [metadata
-file](/metadata.md) file.
+to see the listing of the baseline requirements for all components of the
+senior comprehensive project. The GitHub repositories containing the final
+version of your computational artifact, any data sets and data analysis
+routines, and your senior thesis and research notebook must be finalized and
+linked in the [metadata file](/metadata.md) in this repository.
 
 **Research Notebook**: As a vehicle for documenting and reflecting on your work
 in the `610`-level course, the completed version of your online research
