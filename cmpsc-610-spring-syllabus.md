@@ -255,12 +255,13 @@ stored in and properly released through GitHub repositories referenced in the
 
 ### Course Attendance
 
-It is mandatory for all students to attend the course sessions.
-If, due to extenuating circumstances, you will not be able to attend a session,
-then, whenever possible, please communicate with the course coordinator at least
-one week in advance to describe your situation.
-Students who have any signs of illness should not attend any in-person course
-sessions.
+It is mandatory for all students to attend the course sessions. If, due to
+extenuating circumstances, you will not be able to attend a session, then,
+whenever possible, please communicate with the course coordinator at least one
+week in advance to describe your situation. Students who have any signs of
+illness should not attend any in-person course sessions. Even though students
+with an illness are not required to attend class, they should communicate with
+the course instructor to explain why they were absent.
 
 ### Email Policy
 
@@ -277,8 +278,8 @@ The faculty of the Department of Computer and Information Science reserve the
 right to make changes to this syllabus document. Should a change occur, they may
 be discussed with the members of the course community. Minor revisions to
 wording that do not impact course events or deliverables may be made without
-notice. Any change which impacts dates or significant changes in student
-responsibility will be communicated -- in writing -- at least one week in
+notice. Any change that impacts dates or significant changes in student
+responsibility will be communicated --- in writing --- at least one week in
 advance of the due date of the deliverable affected.
 
 ### Honor Code
