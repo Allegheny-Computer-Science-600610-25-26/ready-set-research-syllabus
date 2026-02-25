@@ -382,7 +382,7 @@ discuss course processes and assignments early and often.
 #### Outside Assistance
 
 If you find yourself in difficult circumstances which affect your ability to
-participate in or complete course work, let us know immediately -- **full
+participate in or complete course work, let us know immediately --- **full
 stop**.
 
 Do not wait until the end of the semester.
@@ -390,7 +390,7 @@ Do not wait until the end of the semester.
 Part of our role as course instructors is to make sure that students receive the
 assistance they need. Do not hesitate to let us know if there is anything we can
 do with respect to your ability to handle your work. Again, let us remind and
-encourage you -- _**it is part of our job**_ to help you access Allegheny
+encourage you --- _**it is part of our job**_ to help you access Allegheny
 College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
