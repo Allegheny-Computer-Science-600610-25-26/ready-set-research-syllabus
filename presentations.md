@@ -23,8 +23,8 @@
 
 - **First Week of Presentations During Week Twelve**:
 
-  - `colucci01@allegheny.edu`
   - `dyga01@allegheny.edu`
+  - `colucci01@allegheny.edu`
   - `hopkins02@allegheny.edu`
 
 - **Second Week of Presentations During Week Fourteen**:
